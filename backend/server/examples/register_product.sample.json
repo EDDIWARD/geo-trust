@@ -1,0 +1,29 @@
+{
+  "product_name": "五常大米礼盒",
+  "batch_no": "2026-03-30-A01",
+  "region_id": 1,
+  "producer_name": "张三合作社",
+  "location": {
+    "lng": 127.154321,
+    "lat": 44.921234,
+    "accuracy": 8.5,
+    "provider": "amap",
+    "fix_time": "2026-03-30T12:30:15+08:00"
+  },
+  "risk_flags": {
+    "is_mock": false,
+    "is_emulator": false,
+    "is_debugger": false,
+    "dev_options_enabled": false
+  },
+  "device": {
+    "android_id_hash": "a6fb8d3e6d8e1c78b12f2c1ab87e6f99",
+    "brand": "Xiaomi",
+    "model": "23049RAD8C",
+    "os_version": "Android 14"
+  },
+  "app": {
+    "version_name": "0.1.0",
+    "version_code": 1
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "code": "wuhan-test-zone",
+    "name": "武汉测试区",
+    "product_type": "测试农产品",
+    "province": "湖北省",
+    "city": "武汉市",
+    "center_lng": 114.3055,
+    "center_lat": 30.5928,
+    "is_enabled": true,
+    "boundary_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [113.95, 30.35],
+          [114.55, 30.35],
+          [114.55, 30.85],
+          [113.95, 30.85],
+          [113.95, 30.35]
+        ]
+      ]
+    }
+  }
+]
