@@ -12,6 +12,7 @@ data class RiskPolicyDto(
     val reject_mock_location: Boolean,
     val reject_emulator: Boolean,
     val reject_debugger: Boolean,
+    val reject_root: Boolean,
 )
 
 data class RegionDto(
@@ -37,6 +38,7 @@ data class RiskFlagsPayloadDto(
     val is_mock: Boolean,
     val is_emulator: Boolean,
     val is_debugger: Boolean,
+    val is_rooted: Boolean,
     val dev_options_enabled: Boolean,
 )
 

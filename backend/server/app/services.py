@@ -147,6 +147,20 @@ def register_product(
         _insert_attempt(connection, payload, decision)
         return _to_response(decision)
 
+    existing_product = _find_existing_product_by_product_and_batch(
+        connection,
+        payload.product_name.strip(),
+        payload.batch_no.strip(),
+    )
+    if existing_product is not None:
+        decision = RegisterDecision(
+            accepted=False,
+            result="rejected_invalid_payload",
+            message="该商品名称与批次号组合已登记，请检查后再试。",
+        )
+        _insert_attempt(connection, payload, decision)
+        return _to_response(decision)
+
     product_code = _build_product_code(connection)
     token = f"gt_{secrets.token_hex(12)}"
     trace_url = f"{settings.base_url.rstrip('/')}{settings.trace_path_prefix}/{token}"
@@ -238,6 +252,13 @@ def _reject_for_risk_if_needed(
             message="检测到 mock 定位风险，拒绝生成溯源码。",
         )
 
+    if settings.reject_root and payload.risk_flags.is_rooted:
+        return RegisterDecision(
+            accepted=False,
+            result="rejected_device_risk",
+            message="检测到 ROOT 环境，拒绝生成溯源码。",
+        )
+
     if (
         (settings.reject_emulator and payload.risk_flags.is_emulator)
         or (settings.reject_debugger and payload.risk_flags.is_debugger)
@@ -259,6 +280,23 @@ def _get_enabled_region(connection: sqlite3.Connection, region_id: int) -> sqlit
         WHERE id = ? AND is_enabled = 1
         """,
         (region_id,),
+    ).fetchone()
+
+
+def _find_existing_product_by_product_and_batch(
+    connection: sqlite3.Connection,
+    product_name: str,
+    batch_no: str,
+) -> sqlite3.Row | None:
+    return connection.execute(
+        """
+        SELECT id
+        FROM products
+        WHERE product_name = ? AND batch_no = ?
+        ORDER BY id DESC
+        LIMIT 1
+        """,
+        (product_name, batch_no),
     ).fetchone()
 
 

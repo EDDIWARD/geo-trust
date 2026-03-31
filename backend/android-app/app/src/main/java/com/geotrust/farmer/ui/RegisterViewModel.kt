@@ -12,8 +12,10 @@ import com.geotrust.farmer.data.model.LocationPayloadDto
 import com.geotrust.farmer.data.model.RegionDto
 import com.geotrust.farmer.data.model.RegisterProductRequestDto
 import com.geotrust.farmer.data.model.RegisterProductResponse
+import com.geotrust.farmer.data.model.RiskPolicyDto
 import com.geotrust.farmer.data.model.RiskFlagsPayloadDto
 import com.geotrust.farmer.data.model.ValidateLocationRequestDto
+import com.geotrust.farmer.data.model.ValidateLocationResponse
 import com.geotrust.farmer.data.network.NetworkModule
 import com.geotrust.farmer.data.repository.MobileRegisterRepository
 import com.geotrust.farmer.location.DeviceLocation
@@ -27,8 +29,11 @@ import kotlinx.coroutines.launch
 import java.security.MessageDigest
 
 data class RegisterUiState(
+    val appName: String = "Geo-Trust Farmer",
     val bootstrapLoaded: Boolean = false,
     val bootstrapError: String? = null,
+    val registerEnabled: Boolean = true,
+    val riskPolicy: RiskPolicyDto? = null,
     val regions: List<RegionDto> = emptyList(),
     val selectedRegionId: Int? = null,
     val productName: String = "",
@@ -39,7 +44,9 @@ data class RegisterUiState(
     val riskSummary: String = "尚未检测设备环境",
     val latestLocation: DeviceLocation? = null,
     val validationMessage: String? = null,
+    val validationResult: ValidateLocationResponse? = null,
     val registrationResult: RegisterProductResponse? = null,
+    val isGeneratingQr: Boolean = false,
     val isLoading: Boolean = false,
 )
 
@@ -59,10 +66,14 @@ class RegisterViewModel(
                 .onSuccess { bootstrap ->
                     _uiState.update {
                         it.copy(
+                            appName = bootstrap.app_name,
                             bootstrapLoaded = true,
                             isLoading = false,
+                            registerEnabled = bootstrap.register_enabled,
+                            riskPolicy = bootstrap.risk_policy,
                             regions = bootstrap.regions,
                             selectedRegionId = bootstrap.regions.firstOrNull()?.id,
+                            validationMessage = if (bootstrap.register_enabled) null else "当前系统暂停登记，请稍后再试",
                         )
                     }
                 }
@@ -82,27 +93,52 @@ class RegisterViewModel(
     }
 
     fun updateProductName(value: String) {
-        _uiState.update { it.copy(productName = value) }
+        _uiState.update { it.copy(productName = value, registrationResult = null, isGeneratingQr = false) }
     }
 
     fun updateBatchNo(value: String) {
-        _uiState.update { it.copy(batchNo = value) }
+        _uiState.update { it.copy(batchNo = value, registrationResult = null, isGeneratingQr = false) }
     }
 
     fun updateProducerName(value: String) {
-        _uiState.update { it.copy(producerName = value) }
+        _uiState.update { it.copy(producerName = value, registrationResult = null, isGeneratingQr = false) }
     }
 
     fun updateSelectedRegionId(regionId: Int) {
-        _uiState.update { it.copy(selectedRegionId = regionId) }
+        _uiState.update {
+            it.copy(
+                selectedRegionId = regionId,
+                validationMessage = null,
+                validationResult = null,
+                registrationResult = null,
+                isGeneratingQr = false,
+            )
+        }
     }
 
     fun validateCurrentLocation() {
         val state = _uiState.value
+        val blockReason = blockReasonForAction(
+            state = state,
+            requireFullForm = false,
+            requireValidatedLocation = false,
+        )
+        if (blockReason != null) {
+            _uiState.update { it.copy(validationMessage = blockReason, validationResult = null) }
+            return
+        }
         val regionId = state.selectedRegionId ?: return
 
         viewModelScope.launch {
-            _uiState.update { it.copy(isLoading = true, validationMessage = null, registrationResult = null) }
+            _uiState.update {
+                it.copy(
+                    isLoading = true,
+                    validationMessage = null,
+                    validationResult = null,
+                    registrationResult = null,
+                    isGeneratingQr = false,
+                )
+            }
             val locationResult = locationProvider.getCurrentLocation()
             locationResult.onSuccess { location ->
                 val risk = deviceRiskCollector.collect()
@@ -116,6 +152,7 @@ class RegisterViewModel(
                                 is_mock = location.isMock,
                                 is_emulator = risk.isEmulator,
                                 is_debugger = risk.isDebugger,
+                                is_rooted = risk.isRooted,
                                 dev_options_enabled = risk.devOptionsEnabled,
                             ),
                         ),
@@ -128,6 +165,8 @@ class RegisterViewModel(
                             locationSummary = buildLocationSummary(location),
                             riskSummary = riskSummary,
                             validationMessage = validation.message,
+                            validationResult = validation,
+                            isGeneratingQr = false,
                         )
                     }
                 }.onFailure { error ->
@@ -138,6 +177,8 @@ class RegisterViewModel(
                             locationSummary = buildLocationSummary(location),
                             riskSummary = riskSummary,
                             validationMessage = error.message ?: "位置校验失败",
+                            validationResult = null,
+                            isGeneratingQr = false,
                         )
                     }
                 }
@@ -146,6 +187,8 @@ class RegisterViewModel(
                     it.copy(
                         isLoading = false,
                         validationMessage = error.message ?: "获取定位失败",
+                        validationResult = null,
+                        isGeneratingQr = false,
                     )
                 }
             }
@@ -154,14 +197,33 @@ class RegisterViewModel(
 
     fun registerProduct() {
         val state = _uiState.value
+        val blockReason = blockReasonForAction(
+            state = state,
+            requireFullForm = true,
+            requireValidatedLocation = true,
+        )
+        if (blockReason != null) {
+            _uiState.update { it.copy(validationMessage = blockReason, registrationResult = null) }
+            return
+        }
         val regionId = state.selectedRegionId ?: return
 
         viewModelScope.launch {
-            _uiState.update { it.copy(isLoading = true, registrationResult = null) }
+            _uiState.update {
+                it.copy(
+                    isLoading = true,
+                    registrationResult = null,
+                    isGeneratingQr = true,
+                )
+            }
             val location = state.latestLocation ?: locationProvider.getCurrentLocation().getOrNull()
             if (location == null) {
                 _uiState.update {
-                    it.copy(isLoading = false, validationMessage = "未获取到定位，无法登记")
+                    it.copy(
+                        isLoading = false,
+                        validationMessage = "未获取到定位，无法登记",
+                        isGeneratingQr = false,
+                    )
                 }
                 return@launch
             }
@@ -171,15 +233,16 @@ class RegisterViewModel(
             runCatching {
                 repository.registerProduct(
                     RegisterProductRequestDto(
-                        product_name = state.productName,
-                        batch_no = state.batchNo,
+                        product_name = state.productName.trim(),
+                        batch_no = state.batchNo.trim(),
                         region_id = regionId,
-                        producer_name = state.producerName,
+                        producer_name = state.producerName.trim(),
                         location = location.toLocationPayload(),
                         risk_flags = RiskFlagsPayloadDto(
                             is_mock = location.isMock,
                             is_emulator = risk.isEmulator,
                             is_debugger = risk.isDebugger,
+                            is_rooted = risk.isRooted,
                             dev_options_enabled = risk.devOptionsEnabled,
                         ),
                         device = DevicePayloadDto(
@@ -203,6 +266,7 @@ class RegisterViewModel(
                         riskSummary = riskSummary,
                         registrationResult = response,
                         validationMessage = response.message,
+                        isGeneratingQr = false,
                     )
                 }
             }.onFailure { error ->
@@ -210,6 +274,7 @@ class RegisterViewModel(
                     it.copy(
                         isLoading = false,
                         validationMessage = error.message ?: "登记失败",
+                        isGeneratingQr = false,
                     )
                 }
             }
@@ -246,6 +311,8 @@ class RegisterViewModel(
             append(if (risk.isEmulator) "是" else "否")
             append(" | 调试器: ")
             append(if (risk.isDebugger) "是" else "否")
+            append(" | ROOT: ")
+            append(if (risk.isRooted) "是" else "否")
             append(" | 开发者选项: ")
             append(if (risk.devOptionsEnabled) "开" else "关")
         }
@@ -259,6 +326,43 @@ class RegisterViewModel(
         val digest = MessageDigest.getInstance("SHA-256")
         return digest.digest(androidId.toByteArray())
             .joinToString("") { byte -> "%02x".format(byte) }
+    }
+
+    private fun blockReasonForAction(
+        state: RegisterUiState,
+        requireFullForm: Boolean,
+        requireValidatedLocation: Boolean,
+    ): String? {
+        if (state.isLoading) {
+            return "请求处理中，请稍候"
+        }
+        if (!state.bootstrapLoaded) {
+            return "初始化配置尚未加载完成"
+        }
+        if (!state.registerEnabled) {
+            return "当前系统暂停登记，请稍后再试"
+        }
+        if (!state.locationPermissionGranted) {
+            return "请先授予定位权限"
+        }
+        if (state.selectedRegionId == null) {
+            return "请选择产区"
+        }
+        if (requireFullForm) {
+            if (state.productName.trim().isEmpty()) {
+                return "请填写商品名称"
+            }
+            if (state.batchNo.trim().isEmpty()) {
+                return "请填写批次号"
+            }
+            if (state.producerName.trim().isEmpty()) {
+                return "请填写生产者名称"
+            }
+        }
+        if (requireValidatedLocation && state.validationResult?.valid != true) {
+            return "请先完成位置校验并确保当前结果通过"
+        }
+        return null
     }
 
     class Factory(

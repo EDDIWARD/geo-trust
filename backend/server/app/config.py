@@ -20,6 +20,7 @@ class Settings:
     reject_mock_location: bool
     reject_emulator: bool
     reject_debugger: bool
+    reject_root: bool
     signing_secret: str
 
 
@@ -50,5 +51,6 @@ def get_settings() -> Settings:
         reject_mock_location=_as_bool(os.getenv("REJECT_MOCK_LOCATION"), True),
         reject_emulator=_as_bool(os.getenv("REJECT_EMULATOR"), True),
         reject_debugger=_as_bool(os.getenv("REJECT_DEBUGGER"), True),
+        reject_root=_as_bool(os.getenv("REJECT_ROOT"), True),
         signing_secret=os.getenv("SIGNING_SECRET", "replace-me-before-production"),
     )

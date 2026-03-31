@@ -9,6 +9,7 @@ class RiskPolicyResponse(BaseModel):
     reject_mock_location: bool
     reject_emulator: bool
     reject_debugger: bool
+    reject_root: bool
 
 
 class RegionResponse(BaseModel):
@@ -42,6 +43,7 @@ class RiskFlagsPayload(BaseModel):
     is_mock: bool
     is_emulator: bool
     is_debugger: bool
+    is_rooted: bool = False
     dev_options_enabled: bool = False
 
 

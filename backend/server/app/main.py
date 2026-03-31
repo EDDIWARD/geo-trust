@@ -53,6 +53,7 @@ def mobile_bootstrap() -> BootstrapResponse:
             reject_mock_location=settings.reject_mock_location,
             reject_emulator=settings.reject_emulator,
             reject_debugger=settings.reject_debugger,
+            reject_root=settings.reject_root,
         ),
         regions=[
             RegionResponse(
