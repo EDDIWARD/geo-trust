@@ -1,0 +1,1070 @@
+{
+  "cities": ["武汉", "上海", "杭州", "深圳", "长沙", "合肥", "南昌"],
+  "base_products": [
+    {
+      "family_id": "F001",
+      "family_name": "恩施玉露",
+      "category": "绿茶",
+      "region_name": "恩施高山茶区",
+      "season": "春季",
+      "tags": ["地理标志", "高山茶", "名优茶"],
+      "reference_note": "200g 自饮款常见在百元左右，礼盒款常见在 150-300 元区间。",
+      "core": {
+        "giftability": 0.86,
+        "narrative_affinity": 0.88,
+        "freshness_sensitivity": 0.26,
+        "authenticity_sensitivity": 0.9,
+        "transportability": 0.88,
+        "standardization": 0.8,
+        "daily_consumption_fit": 0.38,
+        "premium_capacity": 0.9,
+        "perishability": 0.18
+      },
+      "origin": {
+        "origin_fame": 0.88,
+        "gi_strength": 0.92,
+        "natural_uniqueness": 0.87,
+        "seasonal_signal": 0.72,
+        "traceability_fit": 0.92
+      },
+      "variants": [
+        {
+          "variant_id": "P001",
+          "variant_name": "自饮简装",
+          "channel": "电商自饮",
+          "price_band": "中",
+          "unit_price": 98,
+          "launch_quantity": 2200,
+          "presentation": {
+            "package_intensity": 0.34,
+            "narrative_intensity": 0.42,
+            "channel_premium": 0.48,
+            "price_position": 0.42
+          }
+        },
+        {
+          "variant_id": "P002",
+          "variant_name": "轻礼盒",
+          "channel": "文旅伴手礼",
+          "price_band": "高",
+          "unit_price": 168,
+          "launch_quantity": 1800,
+          "presentation": {
+            "package_intensity": 0.62,
+            "narrative_intensity": 0.66,
+            "channel_premium": 0.68,
+            "price_position": 0.64
+          }
+        },
+        {
+          "variant_id": "P003",
+          "variant_name": "大师礼盒",
+          "channel": "团购礼赠",
+          "price_band": "高",
+          "unit_price": 268,
+          "launch_quantity": 900,
+          "presentation": {
+            "package_intensity": 0.84,
+            "narrative_intensity": 0.86,
+            "channel_premium": 0.82,
+            "price_position": 0.84
+          }
+        }
+      ]
+    },
+    {
+      "family_id": "F002",
+      "family_name": "赤壁青砖茶",
+      "category": "黑茶",
+      "region_name": "赤壁砖茶产区",
+      "season": "全年",
+      "tags": ["老字号", "商务茶礼", "地理标志"],
+      "reference_note": "日饮装多在几十元到百元区间，商务礼盒常见在 120-260 元左右。",
+      "core": {
+        "giftability": 0.84,
+        "narrative_affinity": 0.86,
+        "freshness_sensitivity": 0.18,
+        "authenticity_sensitivity": 0.84,
+        "transportability": 0.9,
+        "standardization": 0.84,
+        "daily_consumption_fit": 0.42,
+        "premium_capacity": 0.82,
+        "perishability": 0.12
+      },
+      "origin": {
+        "origin_fame": 0.82,
+        "gi_strength": 0.88,
+        "natural_uniqueness": 0.8,
+        "seasonal_signal": 0.5,
+        "traceability_fit": 0.88
+      },
+      "variants": [
+        {
+          "variant_id": "P004",
+          "variant_name": "日饮便携装",
+          "channel": "商超零售",
+          "price_band": "中",
+          "unit_price": 68,
+          "launch_quantity": 2600,
+          "presentation": {
+            "package_intensity": 0.3,
+            "narrative_intensity": 0.38,
+            "channel_premium": 0.42,
+            "price_position": 0.34
+          }
+        },
+        {
+          "variant_id": "P005",
+          "variant_name": "商务礼盒",
+          "channel": "团购礼赠",
+          "price_band": "高",
+          "unit_price": 138,
+          "launch_quantity": 1600,
+          "presentation": {
+            "package_intensity": 0.66,
+            "narrative_intensity": 0.72,
+            "channel_premium": 0.72,
+            "price_position": 0.62
+          }
+        },
+        {
+          "variant_id": "P006",
+          "variant_name": "文化典藏盒",
+          "channel": "商务定制",
+          "price_band": "高",
+          "unit_price": 228,
+          "launch_quantity": 800,
+          "presentation": {
+            "package_intensity": 0.85,
+            "narrative_intensity": 0.88,
+            "channel_premium": 0.84,
+            "price_position": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "family_id": "F003",
+      "family_name": "神农架百花蜜",
+      "category": "蜂蜜",
+      "region_name": "神农架林区",
+      "season": "夏季",
+      "tags": ["原生态", "山野蜜源", "伴手礼"],
+      "reference_note": "家庭瓶装多在 60-120 元区间，礼盒装常见在 120-220 元上下。",
+      "core": {
+        "giftability": 0.78,
+        "narrative_affinity": 0.8,
+        "freshness_sensitivity": 0.14,
+        "authenticity_sensitivity": 0.82,
+        "transportability": 0.84,
+        "standardization": 0.74,
+        "daily_consumption_fit": 0.48,
+        "premium_capacity": 0.74,
+        "perishability": 0.1
+      },
+      "origin": {
+        "origin_fame": 0.84,
+        "gi_strength": 0.76,
+        "natural_uniqueness": 0.9,
+        "seasonal_signal": 0.58,
+        "traceability_fit": 0.88
+      },
+      "variants": [
+        {
+          "variant_id": "P007",
+          "variant_name": "家庭瓶装",
+          "channel": "电商家庭装",
+          "price_band": "中",
+          "unit_price": 88,
+          "launch_quantity": 2400,
+          "presentation": {
+            "package_intensity": 0.32,
+            "narrative_intensity": 0.46,
+            "channel_premium": 0.46,
+            "price_position": 0.4
+          }
+        },
+        {
+          "variant_id": "P008",
+          "variant_name": "伴手礼盒",
+          "channel": "文旅伴手礼",
+          "price_band": "高",
+          "unit_price": 158,
+          "launch_quantity": 1500,
+          "presentation": {
+            "package_intensity": 0.62,
+            "narrative_intensity": 0.68,
+            "channel_premium": 0.7,
+            "price_position": 0.6
+          }
+        },
+        {
+          "variant_id": "P009",
+          "variant_name": "山野礼盒",
+          "channel": "商务礼赠",
+          "price_band": "高",
+          "unit_price": 238,
+          "launch_quantity": 900,
+          "presentation": {
+            "package_intensity": 0.82,
+            "narrative_intensity": 0.84,
+            "channel_premium": 0.8,
+            "price_position": 0.78
+          }
+        }
+      ]
+    },
+    {
+      "family_id": "F004",
+      "family_name": "秭归脐橙",
+      "category": "鲜果",
+      "region_name": "秭归脐橙核心产区",
+      "season": "秋季",
+      "tags": ["鲜果", "地理标志", "家庭消费"],
+      "reference_note": "家庭箱常见在 40-80 元，精品果礼盒多在 90-150 元区间。",
+      "core": {
+        "giftability": 0.58,
+        "narrative_affinity": 0.54,
+        "freshness_sensitivity": 0.58,
+        "authenticity_sensitivity": 0.62,
+        "transportability": 0.74,
+        "standardization": 0.76,
+        "daily_consumption_fit": 0.82,
+        "premium_capacity": 0.5,
+        "perishability": 0.42
+      },
+      "origin": {
+        "origin_fame": 0.86,
+        "gi_strength": 0.9,
+        "natural_uniqueness": 0.76,
+        "seasonal_signal": 0.76,
+        "traceability_fit": 0.78
+      },
+      "variants": [
+        {
+          "variant_id": "P010",
+          "variant_name": "大众家庭箱",
+          "channel": "社区团购",
+          "price_band": "低",
+          "unit_price": 49,
+          "launch_quantity": 5200,
+          "presentation": {
+            "package_intensity": 0.22,
+            "narrative_intensity": 0.24,
+            "channel_premium": 0.26,
+            "price_position": 0.22
+          }
+        },
+        {
+          "variant_id": "P011",
+          "variant_name": "精品手提箱",
+          "channel": "生鲜电商",
+          "price_band": "中",
+          "unit_price": 88,
+          "launch_quantity": 3000,
+          "presentation": {
+            "package_intensity": 0.44,
+            "narrative_intensity": 0.46,
+            "channel_premium": 0.48,
+            "price_position": 0.44
+          }
+        },
+        {
+          "variant_id": "P012",
+          "variant_name": "礼赠重盒",
+          "channel": "节庆礼赠",
+          "price_band": "高",
+          "unit_price": 138,
+          "launch_quantity": 1300,
+          "presentation": {
+            "package_intensity": 0.72,
+            "narrative_intensity": 0.7,
+            "channel_premium": 0.7,
+            "price_position": 0.66
+          }
+        }
+      ]
+    },
+    {
+      "family_id": "F005",
+      "family_name": "宜昌高山柚",
+      "category": "鲜果",
+      "region_name": "宜昌高山柚产带",
+      "season": "秋季",
+      "tags": ["高山", "节庆鲜果", "特色水果"],
+      "reference_note": "家庭装多在 60-100 元，节庆精品装常见在 100-180 元左右。",
+      "core": {
+        "giftability": 0.64,
+        "narrative_affinity": 0.62,
+        "freshness_sensitivity": 0.52,
+        "authenticity_sensitivity": 0.64,
+        "transportability": 0.76,
+        "standardization": 0.72,
+        "daily_consumption_fit": 0.66,
+        "premium_capacity": 0.62,
+        "perishability": 0.36
+      },
+      "origin": {
+        "origin_fame": 0.74,
+        "gi_strength": 0.7,
+        "natural_uniqueness": 0.8,
+        "seasonal_signal": 0.78,
+        "traceability_fit": 0.72
+      },
+      "variants": [
+        {
+          "variant_id": "P013",
+          "variant_name": "实惠家庭装",
+          "channel": "社区团购",
+          "price_band": "中",
+          "unit_price": 68,
+          "launch_quantity": 3200,
+          "presentation": {
+            "package_intensity": 0.24,
+            "narrative_intensity": 0.28,
+            "channel_premium": 0.28,
+            "price_position": 0.28
+          }
+        },
+        {
+          "variant_id": "P014",
+          "variant_name": "节庆精品装",
+          "channel": "电商礼赠",
+          "price_band": "中",
+          "unit_price": 118,
+          "launch_quantity": 2100,
+          "presentation": {
+            "package_intensity": 0.5,
+            "narrative_intensity": 0.52,
+            "channel_premium": 0.54,
+            "price_position": 0.5
+          }
+        },
+        {
+          "variant_id": "P015",
+          "variant_name": "重礼盒",
+          "channel": "商务礼赠",
+          "price_band": "高",
+          "unit_price": 188,
+          "launch_quantity": 900,
+          "presentation": {
+            "package_intensity": 0.8,
+            "narrative_intensity": 0.78,
+            "channel_premium": 0.78,
+            "price_position": 0.74
+          }
+        }
+      ]
+    },
+    {
+      "family_id": "F006",
+      "family_name": "罗田板栗",
+      "category": "干货",
+      "region_name": "罗田山地板栗产区",
+      "season": "秋季",
+      "tags": ["山货", "干货", "休闲分享"],
+      "reference_note": "家庭袋装多在 40-80 元，山货礼袋多在 80-150 元区间。",
+      "core": {
+        "giftability": 0.56,
+        "narrative_affinity": 0.48,
+        "freshness_sensitivity": 0.24,
+        "authenticity_sensitivity": 0.56,
+        "transportability": 0.82,
+        "standardization": 0.8,
+        "daily_consumption_fit": 0.72,
+        "premium_capacity": 0.48,
+        "perishability": 0.16
+      },
+      "origin": {
+        "origin_fame": 0.7,
+        "gi_strength": 0.74,
+        "natural_uniqueness": 0.66,
+        "seasonal_signal": 0.7,
+        "traceability_fit": 0.66
+      },
+      "variants": [
+        {
+          "variant_id": "P016",
+          "variant_name": "家庭分享袋",
+          "channel": "商超零售",
+          "price_band": "低",
+          "unit_price": 46,
+          "launch_quantity": 3600,
+          "presentation": {
+            "package_intensity": 0.22,
+            "narrative_intensity": 0.22,
+            "channel_premium": 0.24,
+            "price_position": 0.22
+          }
+        },
+        {
+          "variant_id": "P017",
+          "variant_name": "山野礼袋",
+          "channel": "电商伴手礼",
+          "price_band": "中",
+          "unit_price": 88,
+          "launch_quantity": 2200,
+          "presentation": {
+            "package_intensity": 0.46,
+            "narrative_intensity": 0.44,
+            "channel_premium": 0.48,
+            "price_position": 0.44
+          }
+        },
+        {
+          "variant_id": "P018",
+          "variant_name": "重礼盒",
+          "channel": "节庆礼赠",
+          "price_band": "高",
+          "unit_price": 168,
+          "launch_quantity": 900,
+          "presentation": {
+            "package_intensity": 0.78,
+            "narrative_intensity": 0.7,
+            "channel_premium": 0.74,
+            "price_position": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "family_id": "F007",
+      "family_name": "武汉莲藕粉",
+      "category": "冲调",
+      "region_name": "武汉湖区莲藕基地",
+      "season": "秋季",
+      "tags": ["地方特色", "冲调", "文旅伴手礼"],
+      "reference_note": "早餐家庭装多在 25-50 元，伴手礼包装常见在 50-100 元区间。",
+      "core": {
+        "giftability": 0.52,
+        "narrative_affinity": 0.58,
+        "freshness_sensitivity": 0.18,
+        "authenticity_sensitivity": 0.5,
+        "transportability": 0.88,
+        "standardization": 0.84,
+        "daily_consumption_fit": 0.8,
+        "premium_capacity": 0.46,
+        "perishability": 0.1
+      },
+      "origin": {
+        "origin_fame": 0.62,
+        "gi_strength": 0.58,
+        "natural_uniqueness": 0.64,
+        "seasonal_signal": 0.56,
+        "traceability_fit": 0.58
+      },
+      "variants": [
+        {
+          "variant_id": "P019",
+          "variant_name": "早餐家庭装",
+          "channel": "商超零售",
+          "price_band": "低",
+          "unit_price": 29,
+          "launch_quantity": 4200,
+          "presentation": {
+            "package_intensity": 0.18,
+            "narrative_intensity": 0.18,
+            "channel_premium": 0.2,
+            "price_position": 0.18
+          }
+        },
+        {
+          "variant_id": "P020",
+          "variant_name": "文旅伴手礼",
+          "channel": "文旅门店",
+          "price_band": "中",
+          "unit_price": 58,
+          "launch_quantity": 2400,
+          "presentation": {
+            "package_intensity": 0.42,
+            "narrative_intensity": 0.52,
+            "channel_premium": 0.52,
+            "price_position": 0.4
+          }
+        },
+        {
+          "variant_id": "P021",
+          "variant_name": "商务礼盒",
+          "channel": "高价礼赠",
+          "price_band": "高",
+          "unit_price": 118,
+          "launch_quantity": 1000,
+          "presentation": {
+            "package_intensity": 0.8,
+            "narrative_intensity": 0.76,
+            "channel_premium": 0.76,
+            "price_position": 0.72
+          }
+        }
+      ]
+    },
+    {
+      "family_id": "F008",
+      "family_name": "潜江小龙虾",
+      "category": "熟食",
+      "region_name": "潜江虾稻产区",
+      "season": "夏季",
+      "tags": ["冷链", "熟食", "夜宵场景"],
+      "reference_note": "家庭袋装和预制熟食多在 60-120 元，礼袋化后常见在 120-180 元。",
+      "core": {
+        "giftability": 0.44,
+        "narrative_affinity": 0.42,
+        "freshness_sensitivity": 0.72,
+        "authenticity_sensitivity": 0.52,
+        "transportability": 0.56,
+        "standardization": 0.62,
+        "daily_consumption_fit": 0.74,
+        "premium_capacity": 0.42,
+        "perishability": 0.58
+      },
+      "origin": {
+        "origin_fame": 0.82,
+        "gi_strength": 0.72,
+        "natural_uniqueness": 0.66,
+        "seasonal_signal": 0.72,
+        "traceability_fit": 0.62
+      },
+      "variants": [
+        {
+          "variant_id": "P022",
+          "variant_name": "直播家庭袋",
+          "channel": "直播电商",
+          "price_band": "中",
+          "unit_price": 89,
+          "launch_quantity": 3600,
+          "presentation": {
+            "package_intensity": 0.26,
+            "narrative_intensity": 0.24,
+            "channel_premium": 0.34,
+            "price_position": 0.36
+          }
+        },
+        {
+          "variant_id": "P023",
+          "variant_name": "节庆礼袋",
+          "channel": "节庆零售",
+          "price_band": "中",
+          "unit_price": 138,
+          "launch_quantity": 2200,
+          "presentation": {
+            "package_intensity": 0.48,
+            "narrative_intensity": 0.42,
+            "channel_premium": 0.54,
+            "price_position": 0.54
+          }
+        },
+        {
+          "variant_id": "P024",
+          "variant_name": "尊享礼盒",
+          "channel": "高价礼赠",
+          "price_band": "高",
+          "unit_price": 228,
+          "launch_quantity": 900,
+          "presentation": {
+            "package_intensity": 0.78,
+            "narrative_intensity": 0.7,
+            "channel_premium": 0.76,
+            "price_position": 0.78
+          }
+        }
+      ]
+    },
+    {
+      "family_id": "F009",
+      "family_name": "洪山菜薹",
+      "category": "蔬菜",
+      "region_name": "武汉近郊菜薹产区",
+      "season": "冬季",
+      "tags": ["当季鲜菜", "本地短链", "时令"],
+      "reference_note": "鲜采装常见在 15-40 元区间，精品尝鲜盒多在 40-80 元左右。",
+      "core": {
+        "giftability": 0.26,
+        "narrative_affinity": 0.34,
+        "freshness_sensitivity": 0.88,
+        "authenticity_sensitivity": 0.42,
+        "transportability": 0.34,
+        "standardization": 0.48,
+        "daily_consumption_fit": 0.82,
+        "premium_capacity": 0.24,
+        "perishability": 0.78
+      },
+      "origin": {
+        "origin_fame": 0.66,
+        "gi_strength": 0.64,
+        "natural_uniqueness": 0.58,
+        "seasonal_signal": 0.88,
+        "traceability_fit": 0.48
+      },
+      "variants": [
+        {
+          "variant_id": "P025",
+          "variant_name": "社区鲜采装",
+          "channel": "社区团购",
+          "price_band": "低",
+          "unit_price": 19,
+          "launch_quantity": 4600,
+          "presentation": {
+            "package_intensity": 0.12,
+            "narrative_intensity": 0.12,
+            "channel_premium": 0.14,
+            "price_position": 0.12
+          }
+        },
+        {
+          "variant_id": "P026",
+          "variant_name": "精品尝鲜盒",
+          "channel": "精品商超",
+          "price_band": "中",
+          "unit_price": 39,
+          "launch_quantity": 1800,
+          "presentation": {
+            "package_intensity": 0.34,
+            "narrative_intensity": 0.3,
+            "channel_premium": 0.36,
+            "price_position": 0.28
+          }
+        },
+        {
+          "variant_id": "P027",
+          "variant_name": "节庆礼盒",
+          "channel": "节庆送礼",
+          "price_band": "高",
+          "unit_price": 88,
+          "launch_quantity": 700,
+          "presentation": {
+            "package_intensity": 0.72,
+            "narrative_intensity": 0.74,
+            "channel_premium": 0.7,
+            "price_position": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "family_id": "F010",
+      "family_name": "梁子湖大闸蟹",
+      "category": "水产",
+      "region_name": "梁子湖生态水域",
+      "season": "秋季",
+      "tags": ["时令水产", "冷链", "产地证明"],
+      "reference_note": "标准冷链箱常见在 200-400 元，重礼盒高价款会更贵但接受度波动大。",
+      "core": {
+        "giftability": 0.46,
+        "narrative_affinity": 0.4,
+        "freshness_sensitivity": 0.92,
+        "authenticity_sensitivity": 0.72,
+        "transportability": 0.42,
+        "standardization": 0.44,
+        "daily_consumption_fit": 0.38,
+        "premium_capacity": 0.44,
+        "perishability": 0.84
+      },
+      "origin": {
+        "origin_fame": 0.76,
+        "gi_strength": 0.72,
+        "natural_uniqueness": 0.78,
+        "seasonal_signal": 0.9,
+        "traceability_fit": 0.74
+      },
+      "variants": [
+        {
+          "variant_id": "P028",
+          "variant_name": "标准冷链箱",
+          "channel": "生鲜电商",
+          "price_band": "中",
+          "unit_price": 298,
+          "launch_quantity": 1600,
+          "presentation": {
+            "package_intensity": 0.28,
+            "narrative_intensity": 0.34,
+            "channel_premium": 0.44,
+            "price_position": 0.52
+          }
+        },
+        {
+          "variant_id": "P029",
+          "variant_name": "节令礼盒",
+          "channel": "节庆团购",
+          "price_band": "高",
+          "unit_price": 398,
+          "launch_quantity": 900,
+          "presentation": {
+            "package_intensity": 0.54,
+            "narrative_intensity": 0.46,
+            "channel_premium": 0.58,
+            "price_position": 0.68
+          }
+        },
+        {
+          "variant_id": "P030",
+          "variant_name": "尊享木盒",
+          "channel": "高价礼赠",
+          "price_band": "高",
+          "unit_price": 598,
+          "launch_quantity": 450,
+          "presentation": {
+            "package_intensity": 0.86,
+            "narrative_intensity": 0.78,
+            "channel_premium": 0.82,
+            "price_position": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "family_id": "F011",
+      "family_name": "随州香菇",
+      "category": "干货",
+      "region_name": "随州香菇产区",
+      "season": "全年",
+      "tags": ["食用菌", "干货", "地方特产"],
+      "reference_note": "家庭装多在 40-90 元，礼盒装常见在 90-180 元区间。",
+      "core": {
+        "giftability": 0.58,
+        "narrative_affinity": 0.52,
+        "freshness_sensitivity": 0.16,
+        "authenticity_sensitivity": 0.62,
+        "transportability": 0.88,
+        "standardization": 0.82,
+        "daily_consumption_fit": 0.7,
+        "premium_capacity": 0.52,
+        "perishability": 0.12
+      },
+      "origin": {
+        "origin_fame": 0.74,
+        "gi_strength": 0.7,
+        "natural_uniqueness": 0.7,
+        "seasonal_signal": 0.4,
+        "traceability_fit": 0.68
+      },
+      "variants": [
+        {
+          "variant_id": "P031",
+          "variant_name": "家庭干货装",
+          "channel": "商超零售",
+          "price_band": "低",
+          "unit_price": 56,
+          "launch_quantity": 2800,
+          "presentation": {
+            "package_intensity": 0.24,
+            "narrative_intensity": 0.2,
+            "channel_premium": 0.24,
+            "price_position": 0.24
+          }
+        },
+        {
+          "variant_id": "P032",
+          "variant_name": "伴手礼盒",
+          "channel": "文旅伴手礼",
+          "price_band": "中",
+          "unit_price": 118,
+          "launch_quantity": 1700,
+          "presentation": {
+            "package_intensity": 0.48,
+            "narrative_intensity": 0.46,
+            "channel_premium": 0.52,
+            "price_position": 0.5
+          }
+        },
+        {
+          "variant_id": "P033",
+          "variant_name": "尊享礼盒",
+          "channel": "节庆礼赠",
+          "price_band": "高",
+          "unit_price": 188,
+          "launch_quantity": 700,
+          "presentation": {
+            "package_intensity": 0.78,
+            "narrative_intensity": 0.72,
+            "channel_premium": 0.72,
+            "price_position": 0.72
+          }
+        }
+      ]
+    },
+    {
+      "family_id": "F012",
+      "family_name": "孝感米酒",
+      "category": "饮品",
+      "region_name": "孝感米酒产区",
+      "season": "全年",
+      "tags": ["地方风味", "日常饮品", "伴手礼"],
+      "reference_note": "日常瓶装多在十几元到几十元，礼盒多在 50-120 元区间。",
+      "core": {
+        "giftability": 0.5,
+        "narrative_affinity": 0.54,
+        "freshness_sensitivity": 0.18,
+        "authenticity_sensitivity": 0.46,
+        "transportability": 0.84,
+        "standardization": 0.76,
+        "daily_consumption_fit": 0.78,
+        "premium_capacity": 0.42,
+        "perishability": 0.14
+      },
+      "origin": {
+        "origin_fame": 0.68,
+        "gi_strength": 0.64,
+        "natural_uniqueness": 0.56,
+        "seasonal_signal": 0.36,
+        "traceability_fit": 0.54
+      },
+      "variants": [
+        {
+          "variant_id": "P034",
+          "variant_name": "日常瓶装",
+          "channel": "商超零售",
+          "price_band": "低",
+          "unit_price": 18,
+          "launch_quantity": 3600,
+          "presentation": {
+            "package_intensity": 0.16,
+            "narrative_intensity": 0.18,
+            "channel_premium": 0.18,
+            "price_position": 0.14
+          }
+        },
+        {
+          "variant_id": "P035",
+          "variant_name": "文创礼盒",
+          "channel": "文旅伴手礼",
+          "price_band": "中",
+          "unit_price": 58,
+          "launch_quantity": 1800,
+          "presentation": {
+            "package_intensity": 0.42,
+            "narrative_intensity": 0.5,
+            "channel_premium": 0.5,
+            "price_position": 0.4
+          }
+        },
+        {
+          "variant_id": "P036",
+          "variant_name": "雅叙礼盒",
+          "channel": "高价礼赠",
+          "price_band": "高",
+          "unit_price": 108,
+          "launch_quantity": 800,
+          "presentation": {
+            "package_intensity": 0.76,
+            "narrative_intensity": 0.74,
+            "channel_premium": 0.72,
+            "price_position": 0.64
+          }
+        }
+      ]
+    },
+    {
+      "family_id": "F013",
+      "family_name": "绍兴黄酒",
+      "category": "饮品",
+      "region_name": "绍兴黄酒产区",
+      "season": "全年",
+      "tags": ["黄酒", "地方名产", "宴席酒"],
+      "reference_note": "日常饮用款常见在 20-50 元，花雕礼盒和陈酿礼盒常见在 80-200 元区间。",
+      "core": {
+        "giftability": 0.62,
+        "narrative_affinity": 0.68,
+        "freshness_sensitivity": 0.16,
+        "authenticity_sensitivity": 0.58,
+        "transportability": 0.86,
+        "standardization": 0.82,
+        "daily_consumption_fit": 0.68,
+        "premium_capacity": 0.62,
+        "perishability": 0.12
+      },
+      "origin": {
+        "origin_fame": 0.9,
+        "gi_strength": 0.86,
+        "natural_uniqueness": 0.66,
+        "seasonal_signal": 0.34,
+        "traceability_fit": 0.68
+      },
+      "variants": [
+        {
+          "variant_id": "P037",
+          "variant_name": "日饮花雕装",
+          "channel": "商超零售",
+          "price_band": "低",
+          "unit_price": 26,
+          "launch_quantity": 3400,
+          "presentation": {
+            "package_intensity": 0.2,
+            "narrative_intensity": 0.22,
+            "channel_premium": 0.22,
+            "price_position": 0.2
+          }
+        },
+        {
+          "variant_id": "P038",
+          "variant_name": "花雕礼盒",
+          "channel": "文旅伴手礼",
+          "price_band": "中",
+          "unit_price": 88,
+          "launch_quantity": 1900,
+          "presentation": {
+            "package_intensity": 0.48,
+            "narrative_intensity": 0.56,
+            "channel_premium": 0.58,
+            "price_position": 0.46
+          }
+        },
+        {
+          "variant_id": "P039",
+          "variant_name": "陈酿礼盒",
+          "channel": "宴席礼赠",
+          "price_band": "高",
+          "unit_price": 168,
+          "launch_quantity": 950,
+          "presentation": {
+            "package_intensity": 0.74,
+            "narrative_intensity": 0.78,
+            "channel_premium": 0.76,
+            "price_position": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "family_id": "F014",
+      "family_name": "西湖龙井",
+      "category": "绿茶",
+      "region_name": "西湖龙井核心产区",
+      "season": "春季",
+      "tags": ["名优绿茶", "核心产区", "高端茶礼"],
+      "reference_note": "核心产区简装和礼盒价格通常显著高于普通绿茶，礼盒常见在 200-500 元以上。",
+      "core": {
+        "giftability": 0.94,
+        "narrative_affinity": 0.96,
+        "freshness_sensitivity": 0.24,
+        "authenticity_sensitivity": 0.96,
+        "transportability": 0.9,
+        "standardization": 0.84,
+        "daily_consumption_fit": 0.32,
+        "premium_capacity": 0.98,
+        "perishability": 0.16
+      },
+      "origin": {
+        "origin_fame": 0.99,
+        "gi_strength": 0.98,
+        "natural_uniqueness": 0.9,
+        "seasonal_signal": 0.78,
+        "traceability_fit": 0.96
+      },
+      "variants": [
+        {
+          "variant_id": "P040",
+          "variant_name": "核心产区简装",
+          "channel": "品牌电商",
+          "price_band": "高",
+          "unit_price": 138,
+          "launch_quantity": 1800,
+          "presentation": {
+            "package_intensity": 0.44,
+            "narrative_intensity": 0.62,
+            "channel_premium": 0.64,
+            "price_position": 0.62
+          }
+        },
+        {
+          "variant_id": "P041",
+          "variant_name": "文旅礼盒",
+          "channel": "文旅伴手礼",
+          "price_band": "高",
+          "unit_price": 238,
+          "launch_quantity": 1300,
+          "presentation": {
+            "package_intensity": 0.7,
+            "narrative_intensity": 0.78,
+            "channel_premium": 0.78,
+            "price_position": 0.76
+          }
+        },
+        {
+          "variant_id": "P042",
+          "variant_name": "核心产区礼盒",
+          "channel": "商务礼赠",
+          "price_band": "高",
+          "unit_price": 398,
+          "launch_quantity": 780,
+          "presentation": {
+            "package_intensity": 0.84,
+            "narrative_intensity": 0.88,
+            "channel_premium": 0.86,
+            "price_position": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "family_id": "F015",
+      "family_name": "阳澄湖大闸蟹",
+      "category": "水产",
+      "region_name": "阳澄湖核心湖区",
+      "season": "秋季",
+      "tags": ["地理标志", "时令水产", "高辨识产地"],
+      "reference_note": "标准礼券和冷链箱价格通常高于普通淡水蟹，核心湖区礼盒价格波动较大。",
+      "core": {
+        "giftability": 0.62,
+        "narrative_affinity": 0.62,
+        "freshness_sensitivity": 0.9,
+        "authenticity_sensitivity": 0.9,
+        "transportability": 0.44,
+        "standardization": 0.5,
+        "daily_consumption_fit": 0.28,
+        "premium_capacity": 0.72,
+        "perishability": 0.82
+      },
+      "origin": {
+        "origin_fame": 0.98,
+        "gi_strength": 0.96,
+        "natural_uniqueness": 0.88,
+        "seasonal_signal": 0.92,
+        "traceability_fit": 0.94
+      },
+      "variants": [
+        {
+          "variant_id": "P043",
+          "variant_name": "标准冷链箱",
+          "channel": "生鲜电商",
+          "price_band": "高",
+          "unit_price": 398,
+          "launch_quantity": 1500,
+          "presentation": {
+            "package_intensity": 0.32,
+            "narrative_intensity": 0.42,
+            "channel_premium": 0.52,
+            "price_position": 0.66
+          }
+        },
+        {
+          "variant_id": "P044",
+          "variant_name": "节令礼盒",
+          "channel": "节庆团购",
+          "price_band": "高",
+          "unit_price": 568,
+          "launch_quantity": 860,
+          "presentation": {
+            "package_intensity": 0.56,
+            "narrative_intensity": 0.58,
+            "channel_premium": 0.66,
+            "price_position": 0.78
+          }
+        },
+        {
+          "variant_id": "P045",
+          "variant_name": "核心湖区礼盒",
+          "channel": "高价礼赠",
+          "price_band": "高",
+          "unit_price": 828,
+          "launch_quantity": 420,
+          "presentation": {
+            "package_intensity": 0.82,
+            "narrative_intensity": 0.84,
+            "channel_premium": 0.84,
+            "price_position": 0.94
+          }
+        }
+      ]
+    }
+  ]
+}

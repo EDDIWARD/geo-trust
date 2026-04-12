@@ -1,0 +1,82 @@
+{
+  "武汉": {
+    "premium": 0.62,
+    "mass": 0.86,
+    "gift": 0.58,
+    "fresh": 0.82,
+    "culture": 0.64,
+    "tea": 0.54,
+    "beverage": 0.56,
+    "seafood": 0.5
+  },
+  "上海": {
+    "premium": 0.92,
+    "mass": 0.56,
+    "gift": 0.88,
+    "fresh": 0.52,
+    "culture": 0.72,
+    "tea": 0.84,
+    "beverage": 0.68,
+    "seafood": 0.7
+  },
+  "杭州": {
+    "premium": 0.84,
+    "mass": 0.58,
+    "gift": 0.8,
+    "fresh": 0.54,
+    "culture": 0.68,
+    "tea": 0.95,
+    "beverage": 0.62,
+    "seafood": 0.58
+  },
+  "深圳": {
+    "premium": 0.9,
+    "mass": 0.52,
+    "gift": 0.78,
+    "fresh": 0.58,
+    "culture": 0.5,
+    "tea": 0.74,
+    "beverage": 0.56,
+    "seafood": 0.66
+  },
+  "长沙": {
+    "premium": 0.58,
+    "mass": 0.78,
+    "gift": 0.56,
+    "fresh": 0.72,
+    "culture": 0.58,
+    "tea": 0.46,
+    "beverage": 0.52,
+    "seafood": 0.52
+  },
+  "合肥": {
+    "premium": 0.46,
+    "mass": 0.72,
+    "gift": 0.42,
+    "fresh": 0.62,
+    "culture": 0.48,
+    "tea": 0.42,
+    "beverage": 0.5,
+    "seafood": 0.48
+  },
+  "南昌": {
+    "premium": 0.44,
+    "mass": 0.7,
+    "gift": 0.42,
+    "fresh": 0.6,
+    "culture": 0.48,
+    "tea": 0.44,
+    "beverage": 0.52,
+    "seafood": 0.48
+  },
+  "成都": {
+    "premium": 0.72,
+    "mass": 0.64,
+    "gift": 0.68,
+    "fresh": 0.56,
+    "culture": 0.78,
+    "tea": 0.52,
+    "beverage": 0.46,
+    "seafood": 0.42
+  }
+}
