@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="icon" type="image/svg+xml" href="/static/admin-vue/favicon.svg" />
+    <meta name="referrer" content="no-referrer" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>geo-admin</title>
+    <script type="module" crossorigin src="/static/admin-vue/assets/index-DjFlCAZG.js"></script>
+    <link rel="stylesheet" crossorigin href="/static/admin-vue/assets/index-Bg4XgjYX.css">
+    <style>
+      .map-license-tag {
+        margin: 6px 14px 12px;
+        color: #64748b;
+        font-size: 11px;
+        line-height: 1.2;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script>
+      (function () {
+        const TAG_CLASS = "map-license-tag";
+        const TAG_TEXT = "\u5ba1\u56fe\u53f7\uff1aGS(2025)5996";
+
+        function injectMapLicenseTag() {
+          const sections = document.querySelectorAll(".map-section");
+          sections.forEach(function (section) {
+            if (section.querySelector("." + TAG_CLASS)) {
+              return;
+            }
+            const mapContainer = section.querySelector(".map-container");
+            if (!mapContainer) {
+              return;
+            }
+            const tag = document.createElement("div");
+            tag.className = TAG_CLASS;
+            tag.textContent = TAG_TEXT;
+            mapContainer.insertAdjacentElement("afterend", tag);
+          });
+        }
+
+        const observer = new MutationObserver(injectMapLicenseTag);
+        observer.observe(document.body, { childList: true, subtree: true });
+        injectMapLicenseTag();
+      })();
+    </script>
+  </body>
+</html>

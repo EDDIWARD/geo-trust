@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Geo-Trust 可信经营分析工作台</title>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <link rel="stylesheet" href="/static/insights/styles.css?v=20260402c">
+</head>
+<body>
+  <div class="ambient-layer" aria-hidden="true"></div>
+  <div class="app-shell">
+    <header class="masthead panel">
+      <div class="masthead-copy">
+        <p class="eyebrow">Geo-Trust / Trusted Value Mining</p>
+        <h1>可信核销驱动的选品与经营分析</h1>
+        <p class="masthead-note">当前页面使用演示经营数据与经营特征模板进行分析展示，后续可由商家补充渠道、价格、包装、营销与核销等信息作为正式分析输入。</p>
+        <div class="masthead-tags" id="masthead-tags"></div>
+      </div>
+      <div class="masthead-visual" id="hero-visual"></div>
+    </header>
+
+    <section class="overview-grid">
+      <article class="panel signal-panel">
+        <div class="panel-head">
+          <div>
+            <p class="panel-kicker">Signal Atlas</p>
+            <h2>聚类信号图</h2>
+          </div>
+          <p>从多个分析视角展示商品分布，每个点代表一个商品或经营版本。</p>
+        </div>
+        <div id="atlas-grid"></div>
+        <div class="scatter-tooltip" id="scatter-tooltip" hidden></div>
+        <div class="cluster-pill-row" id="cluster-pill-row"></div>
+      </article>
+
+      <article class="panel telemetry-panel">
+        <div class="panel-head">
+          <div>
+            <p class="panel-kicker">Telemetry</p>
+            <h2>全局概览</h2>
+          </div>
+          <p>聚焦可信经营分析的核心结果，展示产品分群、城市机会、策略方向和重点指标。</p>
+        </div>
+        <div class="telemetry-ribbon" id="telemetry-ribbon"></div>
+        <div class="telemetry-market" id="telemetry-market"></div>
+      </article>
+    </section>
+
+    <section class="studio-grid">
+      <aside class="panel catalog-panel">
+        <div class="catalog-head">
+          <div>
+            <p class="panel-kicker">Catalog</p>
+            <h2>商品工作台</h2>
+          </div>
+          <p id="catalog-caption">选择一个商品，进入详细分析页面。</p>
+        </div>
+        <div class="catalog-filter-row" id="catalog-filter-row"></div>
+        <div class="catalog-list" id="catalog-list"></div>
+      </aside>
+
+      <main class="panel stage-panel">
+        <div id="stage-root">
+          <div class="stage-empty">
+            <p class="eyebrow">Loading</p>
+            <h3>正在加载分析面板</h3>
+            <p>加载完成后将展示价值结构、城市机会、动作推演和证据摘要。</p>
+          </div>
+        </div>
+      </main>
+
+      <aside class="panel intel-panel">
+        <div id="intel-root">
+          <div class="intel-empty">
+            <p class="eyebrow">AI Intelligence</p>
+            <h3>正在加载经营判读</h3>
+            <p>这里会展示经营结论、动作优先级和 RAG 证据摘要。</p>
+          </div>
+        </div>
+      </aside>
+    </section>
+  </div>
+
+  <script src="/static/insights/app.js?v=20260402c" defer></script>
+</body>
+</html>

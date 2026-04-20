@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <base href="/static/consumer/">
+    <title>Geo-Trust 溯源信息</title>
+    <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/leaflet/1.9.4/leaflet.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="page-bg">
+        <main class="container">
+            <section class="hero-card">
+                <div class="hero-top">
+                    <div>
+                        <p class="eyebrow">Geo-Trust 消费端</p>
+                        <h1 id="hero-product-name">产品溯源信息</h1>
+                    </div>
+                    <div class="badge-group">
+                        <span class="badge badge-green">安卓端登记</span>
+                        <span id="status-badge" class="badge badge-warning">状态载入中</span>
+                    </div>
+                </div>
+
+                <div class="hero-meta">
+                    <div class="meta-item">
+                        <span class="meta-label">产品编码</span>
+                        <span id="product-code" class="meta-value">-</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">批次号</span>
+                        <span id="batch-no" class="meta-value">-</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">生产主体</span>
+                        <span id="producer-name" class="meta-value">-</span>
+                    </div>
+                </div>
+            </section>
+
+            <section id="status-banner" class="alert-banner">
+                <div class="alert-main">
+                    <div class="alert-left">
+                        <div id="alert-icon" class="alert-icon">!</div>
+                        <div class="alert-content">
+                            <div class="alert-top-row">
+                                <h2 id="status-text">正在载入登记状态</h2>
+                                <span id="alert-pill" class="alert-pill">待判断</span>
+                            </div>
+                            <p id="risk-text">请稍候，系统正在读取该二维码对应的溯源数据。</p>
+                            <p id="risk-level-text" class="risk-level-text">风险等级：-</p>
+                            <div class="alert-tags">
+                                <span class="mini-tag">扫码溯源</span>
+                                <span id="scan-tag" class="mini-tag">累计扫码 0 次</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="alert-image-wrap">
+                        <img id="alert-product-image" src="" alt="产品图片">
+                        <div class="alert-image-caption">安卓端上传图片</div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="info-card">
+                <div class="card-header">
+                    <h3>登记信息</h3>
+                </div>
+                <div class="info-grid">
+                    <div class="info-item">
+                        <span class="label">登记产区</span>
+                        <span id="region-name" class="value">-</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">登记时间</span>
+                        <span id="origin-time" class="value">-</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">首次扫码时间</span>
+                        <span id="first-scan-time" class="value">-</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">最近扫码时间</span>
+                        <span id="last-scan-time" class="value">-</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">累计扫码次数</span>
+                        <span id="scan-count" class="value">0</span>
+                    </div>
+                </div>
+            </section>
+
+            <section class="info-card">
+                <div class="card-header">
+                    <h3>产区地图</h3>
+                    <p class="card-subtitle">显示该产品登记时对应的产区中心点坐标。</p>
+                </div>
+                <div class="location-tag">
+                    <span id="map-region-name">-</span>
+                    <span class="dot"></span>
+                    <span>登记产区定位</span>
+                </div>
+                <div id="map"></div>
+                <p id="map-fallback" class="card-subtitle" style="display:none;"></p>
+            </section>
+
+            <section class="info-card">
+                <div class="card-header">
+                    <h3>支撑材料</h3>
+                    <p class="card-subtitle">展示安卓端上传的图片，例如证书、物品实拍图等。</p>
+                </div>
+                <p id="gallery-empty" class="card-subtitle">当前暂无支撑材料图片。</p>
+                <div id="gallery-grid" class="media-grid"></div>
+            </section>
+        </main>
+    </div>
+
+    <div id="image-preview-modal" class="image-preview-modal">
+        <div class="image-preview-backdrop" id="image-preview-backdrop"></div>
+        <div class="image-preview-dialog">
+            <button id="image-preview-close" class="image-preview-close" type="button">×</button>
+            <img id="image-preview-img" src="" alt="图片预览">
+            <p id="image-preview-title" class="image-preview-title">图片预览</p>
+        </div>
+    </div>
+
+    <script src="https://cdn.bootcdn.net/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+﻿# OS / editor
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Local databases and env files
+*.db
+.env
+backend/server/rag_llm.local.json
+
+# Android / IntelliJ
+.gradle/
+.idea/
+local.properties
+build/
+captures/
+
+# Android app outputs
+*.apk
+*.aab
+
+# Logs
+*.log
+<<<<<<< Updated upstream
+=======
+
+# Temporary import source
+geo-trust-backend/
+
+
+# Local generated debug outputs
+backend/server/mock_data/rag_corpus/_last_llm_response.txt
+backend/server/static/qrcodes/
+截图/
+>>>>>>> Stashed changes
+backend/server/static/product-media/

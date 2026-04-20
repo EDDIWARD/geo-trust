@@ -1,0 +1,7 @@
+{
+  "chat_url": "https://yunai.chat/v1/chat/completions",
+  "api_key": "sk-your-key-here",
+  "extract_model": "qwen3.5-plus",
+  "answer_model": "claude-sonnet-4-6",
+  "timeout_seconds": 120
+}

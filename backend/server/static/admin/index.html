@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Geo-Trust 管理端总览</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="/static/admin/styles.css">
+</head>
+<body>
+  <div class="ambient-layer"></div>
+  <div class="admin-shell">
+    <header class="hero panel">
+      <div class="hero-copy">
+        <p class="eyebrow">Geo-Trust Admin</p>
+        <h1>可信溯源风险总览与经营分析入口</h1>
+        <p class="hero-text">
+          这页统一承接管理端演示：左侧看登记、扫码、异常与区域状态，右侧直接跳转到 AI 经营分析页，避免把风险监测和经营判断混成一套口径。
+        </p>
+        <div class="hero-actions">
+          <a class="action-btn primary" href="/ai-analysis-report">进入 AI 分析</a>
+          <a class="action-btn secondary" href="/trace/demo-token" target="_blank" rel="noreferrer">打开扫码页示例</a>
+        </div>
+        <div class="hero-meta" id="hero-meta"></div>
+      </div>
+      <div class="hero-side">
+        <div class="status-card">
+          <span>系统状态</span>
+          <strong id="system-status">正在连接</strong>
+          <p id="system-note">等待后端返回实时统计</p>
+        </div>
+        <div class="spotlight-card" id="spotlight-card"></div>
+      </div>
+    </header>
+
+    <section class="metric-grid" id="metric-grid"></section>
+
+    <section class="main-grid">
+      <article class="panel map-panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">Trace Map</p>
+            <h2>登记点、扫码点与异常连线</h2>
+          </div>
+          <div class="panel-note" id="map-note"></div>
+        </div>
+        <div id="dashboard-map"></div>
+      </article>
+
+      <aside class="panel event-panel">
+        <div class="panel-head compact">
+          <div>
+            <p class="eyebrow">Event Feed</p>
+            <h2>实时事件流</h2>
+          </div>
+          <span class="tag" id="event-count-tag">0 条</span>
+        </div>
+        <div class="event-list" id="event-list"></div>
+      </aside>
+    </section>
+
+    <section class="analysis-grid">
+      <article class="panel trend-panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">Trend</p>
+            <h2>7 日登记、扫码与异常趋势</h2>
+          </div>
+        </div>
+        <div id="trend-chart"></div>
+      </article>
+
+      <article class="panel region-panel">
+        <div class="panel-head compact">
+          <div>
+            <p class="eyebrow">Region Risk</p>
+            <h2>产区风险结构</h2>
+          </div>
+          <span class="tag" id="region-count-tag">0 个产区</span>
+        </div>
+        <div class="region-table-wrap">
+          <table class="region-table">
+            <thead>
+              <tr>
+                <th>产区</th>
+                <th>品类</th>
+                <th>今日登记</th>
+                <th>总扫码</th>
+                <th>异常</th>
+                <th>风险等级</th>
+              </tr>
+            </thead>
+            <tbody id="region-table-body"></tbody>
+          </table>
+        </div>
+      </article>
+    </section>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js"></script>
+  <script src="/static/admin/app.js"></script>
+</body>
+</html>

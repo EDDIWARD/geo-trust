@@ -1,0 +1,3110 @@
+[
+  {
+    "research_type": "guideline",
+    "evidence_strength": "limited",
+    "card_summary": "该文档为《中国农产品区域公用品牌建设指南》，明确了区域公用品牌的主体、品牌及产品基本条件。涵盖发展要素包括区域资源、质量水平、品牌建设、影响创新及责任。要求品牌所有者为境内法人，产品需获绿色/有机/GAP 认证，并建立授权管理与追溯体系。旨在规范品牌建设，推动产业融合与乡村振兴。",
+    "core_variables": [
+      "品牌主体资格",
+      "产品认证类型",
+      "品牌授权管理",
+      "质量追溯体系",
+      "品牌溢价",
+      "产业收入",
+      "社会责任"
+    ],
+    "variable_relations": [
+      {
+        "statement": "品牌溢价性对生产经营主体具有引领作用，该产业内人均收入高于当地农民人均收入水平",
+        "direction": "positive",
+        "evidence_refs": [
+          "511230440a862d39",
+          "3f8f997f5156568b-chunk-003"
+        ]
+      },
+      {
+        "statement": "品牌主体参与公益慈善活动，以产业福利改善地方百姓条件，实现品牌强农",
+        "direction": "positive",
+        "evidence_refs": [
+          "8c14b9d742e86ddb",
+          "3f8f997f5156568b-chunk-004"
+        ]
+      },
+      {
+        "statement": "核心企业产品获得绿色/有机/GAP 认证是品牌授权使用的必要条件",
+        "direction": "positive",
+        "evidence_refs": [
+          "3f8f997f5156568b-chunk-001"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "区域公用品牌所有者应为在中国境内依法登记设立的法人或其他组织",
+        "evidence_refs": [
+          "3f8f997f5156568b-chunk-001"
+        ]
+      },
+      {
+        "finding": "品牌由“产地名 + 产品名”构成，原则上产地应为县级或地市级",
+        "evidence_refs": [
+          "3f8f997f5156568b-chunk-001"
+        ]
+      },
+      {
+        "finding": "授权使用的核心企业产品须获得绿色食品、有机产品或良好农业规范（GAP）认证之一",
+        "evidence_refs": [
+          "3f8f997f5156568b-chunk-001"
+        ]
+      },
+      {
+        "finding": "品牌需制定并严格实施品牌授权管理办法，注重生态环境保护",
+        "evidence_refs": [
+          "3f8f997f5156568b-chunk-001"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "企业若想使用区域公用品牌，需先获得绿色、有机或 GAP 认证",
+        "evidence_refs": [
+          "3f8f997f5156568b-chunk-001"
+        ]
+      },
+      {
+        "implication": "品牌运营方需建立完整的视觉形象识别系统及监管保护措施",
+        "evidence_refs": [
+          "3f8f997f5156568b-chunk-001"
+        ]
+      },
+      {
+        "implication": "品牌建设应纳入当地国民经济和社会发展规划以获取政策支持",
+        "evidence_refs": [
+          "3f8f997f5156568b-chunk-002"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "本指南仅适用于中国农产品区域公用品牌，不适用于企业私有品牌",
+      "文中关于收入提升的描述为指南要求或观察，非严格因果实证",
+      "政策标准可能随时间调整，需关注最新版本（文档日期为 2019 年）"
+    ],
+    "recommended_queries": [
+      "区域公用品牌主体资格条件是什么",
+      "农产品区域公用品牌产品认证要求",
+      "品牌建设如何结合社会责任"
+    ],
+    "doc_id": "3f8f997f5156568b",
+    "title": "regional public brand guide moa",
+    "source_path": "01_品牌定位与品牌化/regional_public_brand_guide_moa.pdf",
+    "theme_path": "01_品牌定位与品牌化"
+  },
+  {
+    "research_type": "guideline",
+    "evidence_strength": "limited",
+    "card_summary": "中国农业大学牵头制定《农产品区域公用品牌建设指南》，旨在解决品牌建设路径不清、盲目投入等问题。指南包含品牌定位与规划、核心能力提升、营销传播、保护及管理五大关键步骤。强调标准引领作用，推动农业品牌高质量发展，要求地方政府和行业协会参照制定地方标准。",
+    "core_variables": [
+      "农产品区域公用品牌",
+      "品牌建设标准",
+      "品牌定位",
+      "品牌核心能力",
+      "品牌营销传播"
+    ],
+    "variable_relations": [
+      {
+        "statement": "标准引领有助于推动农业品牌高质量发展",
+        "direction": "positive",
+        "evidence_refs": [
+          "b82e8994c881dda6-chunk-001",
+          "7b6767d6c20bab85"
+        ]
+      },
+      {
+        "statement": "品牌定位能让消费者清晰识别记住品牌特征及核心价值",
+        "direction": "positive",
+        "evidence_refs": [
+          "b82e8994c881dda6-chunk-003"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "我国农业品牌建设仍处于起步阶段，存在路径不清、盲目投入、急于求成等现象",
+        "evidence_refs": [
+          "a7f6b5e6305b8305",
+          "b82e8994c881dda6-chunk-002"
+        ]
+      },
+      {
+        "finding": "品牌建设五大步骤包括定位规划、核心能力、营销传播、保护、管理",
+        "evidence_refs": [
+          "b82e8994c881dda6-chunk-003"
+        ]
+      },
+      {
+        "finding": "指南制定遵循政策协调性、前瞻性、实用性、科学性原则",
+        "evidence_refs": [
+          "b82e8994c881dda6-chunk-002",
+          "b82e8994c881dda6-chunk-003"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "品牌建设主体应按五大步骤科学理性建设品牌",
+        "evidence_refs": [
+          "b82e8994c881dda6-chunk-004"
+        ]
+      },
+      {
+        "implication": "地方政府和行业协会可参照指南制定地方和行业建设标准",
+        "evidence_refs": [
+          "05fa5d6449e9dfd5",
+          "b82e8994c881dda6-chunk-004"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "该指南主要针对农产品区域公用品牌，不完全适用于企业品牌",
+      "资料为政策指南解读，缺乏实证数据支持效果"
+    ],
+    "recommended_queries": [
+      "农产品区域公用品牌建设有哪些步骤",
+      "农业品牌建设标准如何制定",
+      "如何提升品牌核心能力"
+    ],
+    "doc_id": "b82e8994c881dda6",
+    "title": "中国农业大学新闻网 媒体农大/科技之窗 农业品牌建设将走进标准引领新时代——专访《农产品区域公用品牌建设指南》起草组首席专家陆娟",
+    "source_path": "01_品牌定位与品牌化/农业品牌建设将走进标准引领新时代_中国农大新闻网.html",
+    "theme_path": "01_品牌定位与品牌化"
+  },
+  {
+    "research_type": "guideline",
+    "evidence_strength": "limited",
+    "card_summary": "云南省发布绿色云品品牌目录管理办法，旨在打造区域、企业、产品三级品牌矩阵。入选目录品牌可获得政策、资金优先支持及官方渠道授权。管理实行动态机制，每年征集复核，违规者三年禁报。该政策为云南农业品牌化提供具体申报路径与扶持依据。",
+    "core_variables": [
+      "绿色云品品牌目录",
+      "品牌类型",
+      "申报条件",
+      "扶持政策",
+      "动态管理"
+    ],
+    "variable_relations": [
+      {
+        "statement": "入选品牌目录可获得政策资金优先支持及官方渠道授权",
+        "direction": "positive",
+        "evidence_refs": [
+          "565f342ad29751df-chunk-003",
+          "d91fa665efdf928f"
+        ]
+      },
+      {
+        "statement": "品牌合规性与质量认证是目录入选的必要条件",
+        "direction": "positive",
+        "evidence_refs": [
+          "565f342ad29751df-chunk-002",
+          "565f342ad29751df-chunk-003"
+        ]
+      },
+      {
+        "statement": "违规行为会导致退出目录且三年内不得再次申报",
+        "direction": "negative",
+        "evidence_refs": [
+          "565f342ad29751df-chunk-003"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "品牌目录包含区域公用品牌、企业品牌和产品品牌三类",
+        "evidence_refs": [
+          "565f342ad29751df-chunk-001"
+        ]
+      },
+      {
+        "finding": "入选需具备商标、地理标志或绿色有机认证等条件",
+        "evidence_refs": [
+          "565f342ad29751df-chunk-002"
+        ]
+      },
+      {
+        "finding": "推选程序含第三方复核、专家评审及五天社会公示",
+        "evidence_refs": [
+          "565f342ad29751df-chunk-003",
+          "0196ff2162aa7975",
+          "10cadea94e40df42"
+        ]
+      },
+      {
+        "finding": "县级以上部门支持入选品牌参加展会及产销对接活动",
+        "evidence_refs": [
+          "565f342ad29751df-chunk-003",
+          "d91fa665efdf928f"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "云南农企可通过申报目录获取官方背书与渠道授权",
+        "evidence_refs": [
+          "565f342ad29751df-chunk-003",
+          "dfd18d60fc7a4c86"
+        ]
+      },
+      {
+        "implication": "需确保持续符合质量追溯与认证有效期以维持目录资格",
+        "evidence_refs": [
+          "565f342ad29751df-chunk-003"
+        ]
+      },
+      {
+        "implication": "利用政府支持的展会活动提升品牌曝光度",
+        "evidence_refs": [
+          "565f342ad29751df-chunk-003",
+          "d91fa665efdf928f"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "该政策仅适用于云南省行政区域内品牌，不可泛化至全国",
+      "目录实行动态管理，非一劳永逸，需每年更新信息",
+      "违规使用标识或质量抽检不合格将导致退出且三年禁报"
+    ],
+    "recommended_queries": [
+      "云南省绿色云品品牌目录申报条件是什么",
+      "入选绿色云品目录有哪些扶持政策",
+      "农产品区域公用品牌如何申请绿色云品",
+      "绿色云品品牌目录退出机制有哪些规定"
+    ],
+    "doc_id": "565f342ad29751df",
+    "title": "云南省农业农村厅",
+    "source_path": "01_品牌定位与品牌化/云南省绿色云品品牌目录管理办法.html",
+    "theme_path": "01_品牌定位与品牌化"
+  },
+  {
+    "research_type": "guideline",
+    "evidence_strength": "limited",
+    "card_summary": "云南省农业农村厅发布绿色云品品牌目录征集通知，旨在实施品牌强农战略。征集范围涵盖区域内农产品区域公用企业及产品品牌。申报需满足商标注册认证如绿色有机质量安全追溯等条件。流程包括在线申报县级审核专家评审及公示。入选品牌可获得推荐参加名品评选优先参与展会推介及政策资金倾斜支持。申报截止时间为每年 8 月 1 日。",
+    "core_variables": [
+      "品牌目录",
+      "申报条件",
+      "扶持措施",
+      "审核流程"
+    ],
+    "variable_relations": [
+      {
+        "statement": "满足申报条件且通过审核的品牌可入选目录",
+        "direction": "positive",
+        "evidence_refs": [
+          "0fd3e6fff5fb00d2-chunk-001",
+          "0fd3e6fff5fb00d2-chunk-002"
+        ]
+      },
+      {
+        "statement": "入选目录的品牌可获得政策资金倾斜及宣传支持",
+        "direction": "positive",
+        "evidence_refs": [
+          "0fd3e6fff5fb00d2-chunk-003"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "产品品牌申报需获得绿色食品有机农产品或良好农业规范认证之一",
+        "evidence_refs": [
+          "0fd3e6fff5fb00d2-chunk-001"
+        ]
+      },
+      {
+        "finding": "省农业农村厅对建议名单进行为期 5 天的社会公示",
+        "evidence_refs": [
+          "75d473cf3c8a14f0",
+          "0fd3e6fff5fb00d2-chunk-002"
+        ]
+      },
+      {
+        "finding": "纳入目录管理的品牌可直接推荐参加云南省 10 大名品评选",
+        "evidence_refs": [
+          "0fd3e6fff5fb00d2-chunk-003"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "企业应提前准备绿色有机认证以满足申报门槛",
+        "evidence_refs": [
+          "0fd3e6fff5fb00d2-chunk-001"
+        ]
+      },
+      {
+        "implication": "建议每年 8 月 1 日前完成申报以纳入当年审核认定",
+        "evidence_refs": [
+          "0fd3e6fff5fb00d2-chunk-003"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "该政策仅适用于云南省行政区域内的品牌",
+      "入选目录仅代表获得扶持资格，不直接保证市场销量"
+    ],
+    "recommended_queries": [
+      "云南省绿色云品品牌目录申报条件",
+      "入选绿色云品品牌目录有哪些扶持政策",
+      "农产品品牌申报需要哪些认证"
+    ],
+    "doc_id": "0fd3e6fff5fb00d2",
+    "title": "云南省农业农村厅办公室关于开展云南省绿色云品品牌目录征集的通知 云南省农业农村厅",
+    "source_path": "01_品牌定位与品牌化/云南省绿色云品品牌目录征集通知_2024.html",
+    "theme_path": "01_品牌定位与品牌化"
+  },
+  {
+    "research_type": "guideline",
+    "evidence_strength": "limited",
+    "card_summary": "该通知明确 2022 年农业品牌精品培育计划，目标每年培育百强品牌。区域公用品牌需具备地理标志及绿色有机等认证，企业品牌须为国家级龙头企业。政策支持对接电商、商超等中高端渠道，并提供金融服务。入选品牌有效期四年，实行动态管理。旨在提升品牌竞争力和市场占有率，促进优质优价。",
+    "core_variables": [
+      "品牌类型",
+      "认证资质",
+      "渠道合作",
+      "政策扶持",
+      "市场竞争力"
+    ],
+    "variable_relations": [
+      {
+        "statement": "获得绿色有机或 GAP 认证与品牌竞争力提升呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "5e60c8c901724252-chunk-003",
+          "f92eaaa0f4449ade"
+        ]
+      },
+      {
+        "statement": "对接大型电商平台和连锁商超渠道与市场开拓能力呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "5e60c8c901724252-chunk-005",
+          "7e6a263fb8d70667"
+        ]
+      },
+      {
+        "statement": "政策扶持与品牌基础完善及影响力提升呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "5e60c8c901724252-chunk-005",
+          "4e6c0cb5063048c3"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "区域公用品牌需连续使用商标三年以上并获得地理标志产品认定",
+        "evidence_refs": [
+          "5e60c8c901724252-chunk-002"
+        ]
+      },
+      {
+        "finding": "企业品牌须为农业产业化国家重点龙头企业或具有辐射带动作用的农垦企业",
+        "evidence_refs": [
+          "5e60c8c901724252-chunk-004"
+        ]
+      },
+      {
+        "finding": "品牌产品须获得绿色食品、有机农产品或良好农业规范认证至少一项",
+        "evidence_refs": [
+          "5e60c8c901724252-chunk-003",
+          "5e60c8c901724252-chunk-004"
+        ]
+      },
+      {
+        "finding": "纳入培育计划品牌有效期为四年且需接受年度抽查复核",
+        "evidence_refs": [
+          "5e60c8c901724252-chunk-006"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "商家应优先获取绿色有机认证以符合精品培育申报条件",
+        "evidence_refs": [
+          "5e60c8c901724252-chunk-003"
+        ]
+      },
+      {
+        "implication": "建议对接大型电商平台和连锁商超以拓展中高端市场渠道",
+        "evidence_refs": [
+          "5e60c8c901724252-chunk-005"
+        ]
+      },
+      {
+        "implication": "企业可关注省级推荐机会争取国家级品牌背书和政策支持",
+        "evidence_refs": [
+          "5e60c8c901724252-chunk-006"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "政策培育名单不代表市场必然成功，证据强度有限",
+      "特定品类和主体资格限制，非所有企业均适用该政策",
+      "动态管理机制下存在因违法违规被撤销品牌资格的风险"
+    ],
+    "recommended_queries": [
+      "农业品牌精品培育需要什么认证资质",
+      "企业如何申请国家级农业品牌精品",
+      "政策支持哪些销售渠道和合作平台",
+      "区域公用品牌申报有哪些基本条件"
+    ],
+    "doc_id": "5e60c8c901724252",
+    "title": "农业农村部办公厅关于开展2022年农业品牌精品培育工作的通知",
+    "source_path": "01_品牌定位与品牌化/农业农村部办公厅关于开展2022年农业品牌精品培育工作的通知.html",
+    "theme_path": "01_品牌定位与品牌化"
+  },
+  {
+    "research_type": "guideline",
+    "evidence_strength": "limited",
+    "card_summary": "海南省农业农村厅发布 2024 年海南鲜品品牌目录名单，列入 60 家企业，授权 3 家企业使用商标。要求市县农业农村局加强扶持指导，掌握品牌打造进展。培育品牌主体需夯实质量根基，加强制度建设，推动强链对接。实行品牌动态管理，发现违法违规行为将撤销授权，品牌主体需每年底提交培育进展报告。",
+    "core_variables": [
+      "品牌目录",
+      "商标授权",
+      "质量根基",
+      "动态管理",
+      "年度报告"
+    ],
+    "variable_relations": [
+      {
+        "statement": "品牌主体打造精品与夯实质量根基有助于提升品牌竞争力",
+        "direction": "positive",
+        "evidence_refs": [
+          "75efde0498e16a01"
+        ]
+      },
+      {
+        "statement": "授权企业存在违法违规行为会导致商标授权被撤销",
+        "direction": "negative",
+        "evidence_refs": [
+          "57edc7039beaf28a-chunk-002"
+        ]
+      },
+      {
+        "statement": "市县农业农村局加强指导服务有助于引领农业品牌打造取得新进展",
+        "direction": "positive",
+        "evidence_refs": [
+          "57edc7039beaf28a-chunk-001"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "2024 年海南鲜品品牌目录列入 60 家企业，同时授权 3 家企业使用商标",
+        "evidence_refs": [
+          "57edc7039beaf28a-chunk-001"
+        ]
+      },
+      {
+        "finding": "品牌主体需每年年底前提交品牌培育进展情况报告",
+        "evidence_refs": [
+          "57edc7039beaf28a-chunk-002"
+        ]
+      },
+      {
+        "finding": "品牌打造工作滞后或存在违法违规行为将被通告撤销",
+        "evidence_refs": [
+          "57edc7039beaf28a-chunk-002"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "企业可关注品牌目录申报以获取区域公用品牌授权机会",
+        "evidence_refs": [
+          "57edc7039beaf28a-chunk-001"
+        ]
+      },
+      {
+        "implication": "获授权企业应重质量讲诚信以维持品牌授权资格",
+        "evidence_refs": [
+          "57edc7039beaf28a-chunk-002"
+        ]
+      },
+      {
+        "implication": "经营主体需配合主管部门调研并按时提交年度报告",
+        "evidence_refs": [
+          "57edc7039beaf28a-chunk-002"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "该资料为海南省 2024 年特定政策通知，结论不可泛化至其他省份或年份",
+      "名单仅包含特定企业案例，不代表所有农产品品牌建设通用规律",
+      "政策管理细则可能随时间调整，需以最新官方文件为准"
+    ],
+    "recommended_queries": [
+      "海南鲜品品牌目录申报流程",
+      "区域公用品牌授权企业管理要求",
+      "农业品牌动态管理措施有哪些"
+    ],
+    "doc_id": "57edc7039beaf28a",
+    "title": "海南省 2024 年“海南鲜品”品牌目录名单和授权商标使用企业的通知 -- 政务动态 -- 海南省农业农村厅",
+    "source_path": "01_品牌定位与品牌化/海南鲜品品牌目录名单和授权商标使用企业通知_2024.html",
+    "theme_path": "01_品牌定位与品牌化"
+  },
+  {
+    "research_type": "report",
+    "evidence_strength": "limited",
+    "card_summary": "本报告为百果园证券研究报告，披露其线下以加盟模式为主，2021 年加盟门店收入占比 81.34%。线上渠道包含小程序及第三方平台。报告同时提及美妆个护线上渠道表现，抖音平台增长显著。针对水果零售，数据显示疫情对加盟门店营收有承压影响，优质水果需求增加可带动售价提升。建议短期兼顾基本面反弹潜力和估值安全边际。",
+    "core_variables": [
+      "加盟门店收入占比",
+      "线上渠道类型",
+      "毛利率",
+      "门店数量",
+      "疫情防控影响"
+    ],
+    "variable_relations": [
+      {
+        "statement": "加盟模式主导收入结构，贡献主要销售收入",
+        "direction": "positive",
+        "evidence_refs": [
+          "887e7f8ac4d439aa",
+          "b2677e0124ade0bf-chunk-002"
+        ]
+      },
+      {
+        "statement": "疫情防控导致加盟门店营收承压",
+        "direction": "negative",
+        "evidence_refs": [
+          "887e7f8ac4d439aa"
+        ]
+      },
+      {
+        "statement": "优质产品需求增加推动售价增长进而提升毛利率",
+        "direction": "positive",
+        "evidence_refs": [
+          "08b3cf84ab67b3fb"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "2019 至 2021 年加盟门店贡献主要收入占比超 80%",
+        "evidence_refs": [
+          "887e7f8ac4d439aa"
+        ]
+      },
+      {
+        "finding": "2021 年毛利率增幅显著因提高加盟商售价及优质产品需求增加",
+        "evidence_refs": [
+          "08b3cf84ab67b3fb"
+        ]
+      },
+      {
+        "finding": "线下门店主要布局一二线城市线上渠道包括小程序第三方电商平台",
+        "evidence_refs": [
+          "b2677e0124ade0bf-chunk-002"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "加盟模式可作为规模化扩张参考路径",
+        "evidence_refs": [
+          "887e7f8ac4d439aa"
+        ]
+      },
+      {
+        "implication": "线上渠道布局需结合小程序与第三方平台",
+        "evidence_refs": [
+          "b2677e0124ade0bf-chunk-002"
+        ]
+      },
+      {
+        "implication": "定价策略可参考优质产品溢价逻辑",
+        "evidence_refs": [
+          "08b3cf84ab67b3fb"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "百果园个案数据不代表水果行业普遍规律",
+      "报告中美妆渠道数据不直接适用于水果品类",
+      "证券投资建议不构成个人投资操作依据"
+    ],
+    "recommended_queries": [
+      "百果园线上渠道有哪些",
+      "水果零售加盟收入占比多少",
+      "线上渠道应怎么选",
+      "百果园门店分布情况"
+    ],
+    "doc_id": "b2677e0124ade0bf",
+    "title": "百果园 国内水果零售龙头 证券研究报告",
+    "source_path": "02_定价分级与经营策略/百果园_国内水果零售龙头_证券研究报告.pdf",
+    "theme_path": "02_定价分级与经营策略"
+  },
+  {
+    "research_type": "report",
+    "evidence_strength": "medium",
+    "card_summary": "本报告预测 2026 至 2030 年纯坚果礼盒市场将稳中有升，健康升级与渠道渗透是核心驱动力。商务礼赠趋向轻量化与健康背书，日消礼赠转向日常高频与迷你化。行业将强化标准化体系与供应链透明度，通过第三方认证及溯源信息建立信任。商家需把握场景分化机遇，优化包装设计与品质管控，关注社区团购等新兴渠道潜力。",
+    "core_variables": [
+      "礼盒场景",
+      "健康背书",
+      "标准化体系",
+      "供应链透明度",
+      "渠道渗透"
+    ],
+    "variable_relations": [
+      {
+        "statement": "健康背书增强消费者信任与购买意愿",
+        "direction": "positive",
+        "evidence_refs": [
+          "ff11a3c59ac978c0",
+          "228d1c5f99d4deee-chunk-012"
+        ]
+      },
+      {
+        "statement": "标准化体系提升企业行业竞争力与话语权",
+        "direction": "positive",
+        "evidence_refs": [
+          "c2d54dd6e3423ee9",
+          "228d1c5f99d4deee-chunk-015"
+        ]
+      },
+      {
+        "statement": "场景分化驱动产品包装与设计差异化",
+        "direction": "positive",
+        "evidence_refs": [
+          "076f3118b16f78ec",
+          "228d1c5f99d4deee-chunk-012"
+        ]
+      },
+      {
+        "statement": "供应链透明度促进消费者复购率",
+        "direction": "positive",
+        "evidence_refs": [
+          "1a0fc0ea0a81d98a",
+          "228d1c5f99d4deee-chunk-002"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "商务礼赠从厚重奢华转向精致高端与健康关怀",
+        "evidence_refs": [
+          "228d1c5f99d4deee-chunk-012"
+        ]
+      },
+      {
+        "finding": "日消礼赠从节日专属转向日常高频与迷你化",
+        "evidence_refs": [
+          "228d1c5f99d4deee-chunk-012"
+        ]
+      },
+      {
+        "finding": "净含量标注将实现去皮称重提升透明度",
+        "evidence_refs": [
+          "1a0fc0ea0a81d98a",
+          "228d1c5f99d4deee-chunk-015"
+        ]
+      },
+      {
+        "finding": "社区团购定制套餐有望成为蓝海市场",
+        "evidence_refs": [
+          "228d1c5f99d4deee-chunk-013"
+        ]
+      },
+      {
+        "finding": "纯坚果礼盒市场 2026 至 2030 年预计稳中有升",
+        "evidence_refs": [
+          "2f109e84b7ea6156",
+          "228d1c5f99d4deee-chunk-013"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "搭载第三方权威认证与健康食用建议卡",
+        "evidence_refs": [
+          "ff11a3c59ac978c0"
+        ]
+      },
+      {
+        "implication": "针对商务与日消场景设计差异化包装",
+        "evidence_refs": [
+          "228d1c5f99d4deee-chunk-012"
+        ]
+      },
+      {
+        "implication": "建立原料溯源体系展示产地与检测信息",
+        "evidence_refs": [
+          "228d1c5f99d4deee-chunk-015",
+          "228d1c5f99d4deee-chunk-002"
+        ]
+      },
+      {
+        "implication": "关注直播电商与社区团购渠道布局",
+        "evidence_refs": [
+          "228d1c5f99d4deee-chunk-013"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "市场预测基于当前趋势，实际增速可能受经济环境影响",
+      "部分案例为企业特定策略，不一定适用所有规模商家",
+      "标准体系仍在完善中，具体指标可能调整"
+    ],
+    "recommended_queries": [
+      "坚果礼盒适合什么渠道",
+      "商务坚果礼盒包装趋势",
+      "坚果礼盒标准化要求有哪些",
+      "健康背书如何影响坚果购买"
+    ],
+    "doc_id": "228d1c5f99d4deee",
+    "title": "2025年中国坚果礼盒发展报告",
+    "source_path": "03_包装礼盒与消费场景/2025年中国坚果礼盒发展报告.pdf",
+    "theme_path": "03_包装礼盒与消费场景"
+  },
+  {
+    "research_type": "report",
+    "evidence_strength": "limited",
+    "card_summary": "本文源自人民网健康频道，引用中国农业大学专家观点，分析生鲜礼盒腐败高发原因。主要问题在于源头未控好，采摘后直接装箱且缺乏预冷处理，冷链运输缺失导致温度波动。高水分果蔬易霉变。建议商户实施预冷至零至十五度，消费者收货后及时检查异味并退换。",
+    "core_variables": [
+      "生鲜礼盒质量",
+      "预冷处理",
+      "冷链运输",
+      "储存温度",
+      "腐败变质"
+    ],
+    "variable_relations": [
+      {
+        "statement": "缺乏预冷和冷链运输会导致生鲜腐败加速",
+        "direction": "positive",
+        "evidence_refs": [
+          "b0e0d55ceaa21087-chunk-001"
+        ]
+      },
+      {
+        "statement": "高水分含量增加霉变风险",
+        "direction": "positive",
+        "evidence_refs": [
+          "b0e0d55ceaa21087-chunk-001"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "单位采购生鲜礼盒大部分收货后已不能食用",
+        "evidence_refs": [
+          "b0e0d55ceaa21087-chunk-001"
+        ]
+      },
+      {
+        "finding": "预冷可将温度迅速降至零至十五度抑制代谢",
+        "evidence_refs": [
+          "b0e0d55ceaa21087-chunk-001"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "商家应加强源头控制及预冷工艺以降低损耗",
+        "evidence_refs": [
+          "b0e0d55ceaa21087-chunk-001"
+        ]
+      },
+      {
+        "implication": "消费者收货需第一时间检查异味并及时维权",
+        "evidence_refs": [
+          "b0e0d55ceaa21087-chunk-001"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "文中具体水分比例可能仅针对特定果蔬品类",
+      "文本存在编码乱码，部分细节可能缺失"
+    ],
+    "recommended_queries": [
+      "生鲜礼盒腐败原因",
+      "生鲜预冷温度标准",
+      "生鲜收货检查建议"
+    ],
+    "doc_id": "b0e0d55ceaa21087",
+    "title": "Ϊɶ----",
+    "source_path": "03_包装礼盒与消费场景/生鲜礼盒为啥问题多_人民网.html",
+    "theme_path": "03_包装礼盒与消费场景"
+  },
+  {
+    "research_type": "case",
+    "evidence_strength": "limited",
+    "card_summary": "德州邮政分公司通过社区团购加直播带货模式，打造农产品线上销售爆款。二零二二年打造三十六个万单农产品，线上销售额两千五百三十三万元。建立产品经理选品加导师指导体系，发展活跃团长五千余人，组织社区团购一千二百八十六场。该模式融合线上线下，解决农户卖菜难问题，促进特色农产品销售。",
+    "core_variables": [
+      "社区团购",
+      "直播带货",
+      "农产品销售",
+      "邮乐平台",
+      "私域客户",
+      "社区团长"
+    ],
+    "variable_relations": [
+      {
+        "statement": "社区团购与直播带货结合促进农产品销量增长",
+        "direction": "positive",
+        "evidence_refs": [
+          "6b91897f695d2015-chunk-001",
+          "6b91897f695d2015-chunk-002"
+        ]
+      },
+      {
+        "statement": "导师团队指导提高基层成交率",
+        "direction": "positive",
+        "evidence_refs": [
+          "6b91897f695d2015-chunk-002"
+        ]
+      },
+      {
+        "statement": "线上渠道引流带动网点金融客户转化",
+        "direction": "positive",
+        "evidence_refs": [
+          "6b91897f695d2015-chunk-002",
+          "6b91897f695d2015-chunk-003"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "全年打造三十六个万单农产品，累计销售超五十六万单",
+        "evidence_refs": [
+          "6b91897f695d2015-chunk-001"
+        ]
+      },
+      {
+        "finding": "农产品交易额百分之六十以上来源于邮乐平台",
+        "evidence_refs": [
+          "6b91897f695d2015-chunk-002"
+        ]
+      },
+      {
+        "finding": "基地直播实现原产地直销直运，解决卖菜难买菜难问题",
+        "evidence_refs": [
+          "1832e95dd0d721e6",
+          "6b91897f695d2015-chunk-003"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "商家可尝试线上宣传推介加基地实物展示的生态圈模式",
+        "evidence_refs": [
+          "6b91897f695d2015-chunk-001"
+        ]
+      },
+      {
+        "implication": "建立统一选品加推广引流加团长转发的规范运作体系有助于客群裂变",
+        "evidence_refs": [
+          "6b91897f695d2015-chunk-002"
+        ]
+      },
+      {
+        "implication": "选品方向可对准有机蔬菜、水果、米面等高频消费品",
+        "evidence_refs": [
+          "6b91897f695d2015-chunk-003"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "该案例基于中国邮政特定资源与网络，其他主体难以完全复制",
+      "区域市场成功数据不代表全国普遍规律",
+      "证据强度有限，主要为单一区域成功案例"
+    ],
+    "recommended_queries": [
+      "社区团购如何结合直播带货",
+      "农产品线上渠道怎么选",
+      "邮政邮乐平台销售效果如何",
+      "社区团长如何管理"
+    ],
+    "doc_id": "6b91897f695d2015",
+    "title": "“德州味”香飘邮乐 - 中国邮政集团有限公司",
+    "source_path": "04_区域市场与渠道/德州味香飘邮乐_社区团购直播基地直播_中国邮政.html",
+    "theme_path": "04_区域市场与渠道"
+  },
+  {
+    "research_type": "report",
+    "evidence_strength": "medium",
+    "card_summary": "京东 2024 报告显示农产品线上跨省销售占比高，五常大米等省外销售超九成。电商基础设施、品牌打造及产地直采模式推动农产品全国化流动。东部水产、西部羊肉、南部水果茶叶、东北大米形成跨区域大流动格局，小众地标农产品知名度快速打响。",
+    "core_variables": [
+      "电商渠道",
+      "农产品跨省销售",
+      "品牌影响力",
+      "供应链基础设施",
+      "销售成交额"
+    ],
+    "variable_relations": [
+      {
+        "statement": "电商供应链设施完善与农产品销售增长呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "8205518f1c8745c3-chunk-001",
+          "8205518f1c8745c3-chunk-004"
+        ]
+      },
+      {
+        "statement": "品牌影响力提升与地标农产品选购率呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "68d3280a49fd637a",
+          "8205518f1c8745c3-chunk-004"
+        ]
+      },
+      {
+        "statement": "节日营销与特色美食成交额增长呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "8205518f1c8745c3-chunk-006"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "众多地标农产品省外销售占比超九成，实现销售全国化",
+        "evidence_refs": [
+          "8205518f1c8745c3-chunk-003"
+        ]
+      },
+      {
+        "finding": "特色农产品线上销售规模逐年提升，部分品类成交额较 2019 年增长超 10 倍",
+        "evidence_refs": [
+          "8205518f1c8745c3-chunk-001",
+          "8205518f1c8745c3-chunk-002"
+        ]
+      },
+      {
+        "finding": "小众地域性春菜及新产业带农产品成交额增长显著",
+        "evidence_refs": [
+          "d95bccab06091665",
+          "8205518f1c8745c3-chunk-004"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "商家可利用电商渠道突破地域限制，拓展全国市场",
+        "evidence_refs": [
+          "8205518f1c8745c3-chunk-003"
+        ]
+      },
+      {
+        "implication": "结合农产品独特性推动品牌建设，提升知名度",
+        "evidence_refs": [
+          "8205518f1c8745c3-chunk-004"
+        ]
+      },
+      {
+        "implication": "借助节日节点和促销活动推动美食全国流动",
+        "evidence_refs": [
+          "8205518f1c8745c3-chunk-006"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "数据源自京东平台，可能不完全代表全渠道或线下市场情况",
+      "具体品类增长案例不代表所有农产品均能实现同等增速",
+      "跨省物流依赖冷链等技术，需评估基础设施成本"
+    ],
+    "recommended_queries": [
+      "农产品线上渠道应怎么选",
+      "品牌建设或品牌表达应怎么做",
+      "地标农产品如何扩大省外销售"
+    ],
+    "doc_id": "8205518f1c8745c3",
+    "title": "京东《2024线上农产品流动报告》：农产品加快“走出去” 五常大米等众多农产品省外销售占比超九成 - 博览 - 海外网",
+    "source_path": "04_区域市场与渠道/jd_2024_agri_flow_haiwainet.html",
+    "theme_path": "04_区域市场与渠道"
+  },
+  {
+    "research_type": "mixed",
+    "evidence_strength": "limited",
+    "card_summary": "2024 年南通市农业农村局公示农产品品牌建设项目立项名单，涉及海安、如皋等多地主体。补助金额 10 至 20 万元不等，支持方向包含电商直播间建设、品牌数字化、线下门店升级及特定农产品品牌营销。表明当地政策鼓励农产品通过电商直播及数字化手段提升品牌竞争力。该公示列出了具体获补主体及项目名，为当地农业经营者提供申报参考。",
+    "core_variables": [
+      "补助金额",
+      "项目类型",
+      "所属区域",
+      "实施主体"
+    ],
+    "variable_relations": [
+      {
+        "statement": "政府补助资金流向电商直播及品牌数字化项目",
+        "direction": "positive",
+        "evidence_refs": [
+          "f6f39dfa2590e989-chunk-001"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "立项项目涵盖电商直播间、品牌数字化建设、线下店铺提升等类型",
+        "evidence_refs": [
+          "f6f39dfa2590e989-chunk-001"
+        ]
+      },
+      {
+        "finding": "单个项目补助金额主要在 10 万元至 20 万元区间",
+        "evidence_refs": [
+          "f6f39dfa2590e989-chunk-001"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "经营主体可关注当地农业农村局品牌建设项目申报，电商与直播是重点支持方向",
+        "evidence_refs": [
+          "f6f39dfa2590e989-chunk-001"
+        ]
+      },
+      {
+        "implication": "品牌建设可结合数字化建设、门店升级及线上平台运营进行规划",
+        "evidence_refs": [
+          "f6f39dfa2590e989-chunk-001"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "仅限南通市 2024 年政策，其他地区或年份补助标准可能不同",
+      "立项名单为特定主体案例，不代表所有项目均能获得补助"
+    ],
+    "recommended_queries": [
+      "农产品品牌建设项目如何申报",
+      "农业电商直播间建设有补助吗",
+      "南通市农产品品牌建设支持方向"
+    ],
+    "doc_id": "f6f39dfa2590e989",
+    "title": "关于2024年南通市农产品品牌建设项目的立项公示-南通市农业农村局",
+    "source_path": "04_区域市场与渠道/2024年南通市农产品品牌建设项目立项公示.html",
+    "theme_path": "04_区域市场与渠道"
+  },
+  {
+    "research_type": "report",
+    "evidence_strength": "medium",
+    "card_summary": "2025 年中国有机食品消费趋势白皮书指出，中国为全球第三大有机市场。调研显示消费者月均购买频次约 2.8 次，男性略高于女性。有机认证标识显著影响购买决策，蔬菜粮食水果优先级高。包装趋向环保与信息透明，超八成消费者出于理性消费。报告旨在解决市场信息短缺问题，助力企业精准营销。",
+    "core_variables": [
+      "有机食品消费频次",
+      "购买决策因素",
+      "包装趋势",
+      "消费心理",
+      "品类优先级"
+    ],
+    "variable_relations": [
+      {
+        "statement": "有机认证标识存在与否影响购买决策",
+        "direction": "positive",
+        "evidence_refs": [
+          "2cdd0c0a5cd45fc4",
+          "1eacd2ac817b9d74-chunk-003"
+        ]
+      },
+      {
+        "statement": "包装信息量和环保程度影响消费者关注度",
+        "direction": "positive",
+        "evidence_refs": [
+          "c5e1d741bed07618",
+          "1eacd2ac817b9d74-chunk-003"
+        ]
+      },
+      {
+        "statement": "性别与消费频次存在关联",
+        "direction": "mixed",
+        "evidence_refs": [
+          "46636f22bd1e3547",
+          "1eacd2ac817b9d74-chunk-003"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "中国有机食品消费人群月均消费频次约为 2.8 次",
+        "evidence_refs": [
+          "46636f22bd1e3547",
+          "1eacd2ac817b9d74-chunk-003"
+        ]
+      },
+      {
+        "finding": "有机蔬菜、粮食、水果位于购买优先级前列",
+        "evidence_refs": [
+          "2cdd0c0a5cd45fc4",
+          "1eacd2ac817b9d74-chunk-003"
+        ]
+      },
+      {
+        "finding": "百分之 69.15 消费者认为有机食品质量高于普通产品",
+        "evidence_refs": [
+          "1eacd2ac817b9d74-chunk-003"
+        ]
+      },
+      {
+        "finding": "2024 年有机食品包装在信息量和标识突出方面显著提升",
+        "evidence_refs": [
+          "c5e1d741bed07618",
+          "1eacd2ac817b9d74-chunk-003"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "商家应在包装上突出有机认证标识以提升转化",
+        "evidence_refs": [
+          "2cdd0c0a5cd45fc4",
+          "1eacd2ac817b9d74-chunk-003"
+        ]
+      },
+      {
+        "implication": "包装设计应注重环保材质与信息透明度",
+        "evidence_refs": [
+          "c5e1d741bed07618",
+          "1eacd2ac817b9d74-chunk-003"
+        ]
+      },
+      {
+        "implication": "营销可侧重日常做饭场景及理性消费诉求",
+        "evidence_refs": [
+          "1eacd2ac817b9d74-chunk-003"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "消费频次性别差异仅基于本次调研样本，不可泛化为普遍规律",
+      "市场面临生产端成本高及渠道不畅挑战，数据不代表所有区域",
+      "白皮书数据具有时效性，需结合最新市场动态参考"
+    ],
+    "recommended_queries": [
+      "有机食品消费者购买频次是多少",
+      "影响有机食品购买决策的关键因素有哪些",
+      "有机食品包装趋势如何影响消费者",
+      "中国有机食品市场主要消费品类是什么"
+    ],
+    "doc_id": "1eacd2ac817b9d74",
+    "title": "国内首份聚焦 “有机消费” 的白皮书——《2025 年中国有机食品消费趋势白皮书》正式开售",
+    "source_path": "04_区域市场与渠道/2025年中国有机食品消费趋势白皮书_发布页.html",
+    "theme_path": "04_区域市场与渠道"
+  },
+  {
+    "research_type": "case",
+    "evidence_strength": "limited",
+    "card_summary": "云南曲靖邮政分公司利用网点优势，采用社区团购加直播带货加邮乐小店新模式推广特色农产品。通过集中采购统一配送定点取货，搭建原产地直达餐桌快车道。2024 年累计销售农特产品达 1578 万元。直采直配省去中间环节，价格具竞争优势，品质有保障且服务零投诉。",
+    "core_variables": [
+      "社区团购",
+      "直播带货",
+      "直采直配",
+      "地理标志产品",
+      "销售额"
+    ],
+    "variable_relations": [
+      {
+        "statement": "溯源直播模式吸引网友关注并促进下单",
+        "direction": "positive",
+        "evidence_refs": [
+          "2ff059978bfe44ea-chunk-002"
+        ]
+      },
+      {
+        "statement": "直采直配降低流通环节成本从而形成价格优势",
+        "direction": "positive",
+        "evidence_refs": [
+          "2ff059978bfe44ea-chunk-002"
+        ]
+      },
+      {
+        "statement": "直播方式带动结合社区团购推动提升农产品进城效率",
+        "direction": "positive",
+        "evidence_refs": [
+          "2ff059978bfe44ea-chunk-002"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "2024 年曲靖邮政累计销售农特产品达 1578 万元",
+        "evidence_refs": [
+          "2ff059978bfe44ea-chunk-001"
+        ]
+      },
+      {
+        "finding": "单场溯源直播下单 20.29 万元",
+        "evidence_refs": [
+          "2ff059978bfe44ea-chunk-002"
+        ]
+      },
+      {
+        "finding": "社区团购覆盖 100 余个社区，形成销售额近 40 万元",
+        "evidence_refs": [
+          "2ff059978bfe44ea-chunk-002"
+        ]
+      },
+      {
+        "finding": "自社区团购开展以来保持服务零投诉记录",
+        "evidence_refs": [
+          "2ff059978bfe44ea-chunk-002"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "线上渠道可选择直播结合社区团购模式",
+        "evidence_refs": [
+          "2ff059978bfe44ea-chunk-001"
+        ]
+      },
+      {
+        "implication": "产地标签和溯源信息有助于支撑购买信任",
+        "evidence_refs": [
+          "2ff059978bfe44ea-chunk-002"
+        ]
+      },
+      {
+        "implication": "直采模式有助于解决产销难并形成价格竞争优势",
+        "evidence_refs": [
+          "2ff059978bfe44ea-chunk-002"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "中国邮政拥有遍布城乡网点优势，其他商家未必具备同等物流与网点条件",
+      "案例数据仅限云南曲靖区域，不同地区市场接受度可能存在差异",
+      "销售额数据为特定年份特定主体业绩，不可直接作为行业普遍标准",
+      "地理标志产品溢价能力需结合具体品牌运营，本案例未明确量化溢价比例"
+    ],
+    "recommended_queries": [
+      "社区团购是否适合该商品",
+      "线上渠道应怎么选",
+      "产地标签和地理标志能否支撑溢价",
+      "溯源与透明信息对购买有没有帮助",
+      "农产品直采直配模式如何降低成本"
+    ],
+    "doc_id": "2ff059978bfe44ea",
+    "title": "手机里的“菜篮子” - 中国邮政集团有限公司",
+    "source_path": "04_区域市场与渠道/云南曲靖_社区团购直播带货邮乐小店_中国邮政.html",
+    "theme_path": "04_区域市场与渠道"
+  },
+  {
+    "research_type": "case",
+    "evidence_strength": "limited",
+    "card_summary": "广东茂名通过引入人工智能助手、无人机物流及电商直播，重塑荔枝产销流程。人工智能提升生产效率百分之三十，诊断准确率超百分之九十五。电商助力超半数荔枝出村进城，政府支持文化赋能与多元化消费场景，为农产品线上渠道选择与品牌建设提供参考案例。",
+    "core_variables": [
+      "人工智能技术",
+      "电商直播",
+      "物流效率",
+      "销售渠道",
+      "品牌营销"
+    ],
+    "variable_relations": [
+      {
+        "statement": "人工智能技术应用与生产效率提升呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "88fae11c1793339e",
+          "54f454370ef33fb2-chunk-002"
+        ]
+      },
+      {
+        "statement": "电商直播渠道拓展与农产品销售范围扩大呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "54f454370ef33fb2-chunk-002"
+        ]
+      },
+      {
+        "statement": "无人机物流应用与运输时效提升呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "54f454370ef33fb2-chunk-002"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "人工智能模型可将病害诊断时间从数小时缩短至五秒以内，准确率提升至百分之九十五以上",
+        "evidence_refs": [
+          "88fae11c1793339e",
+          "54f454370ef33fb2-chunk-002"
+        ]
+      },
+      {
+        "finding": "部分村庄超百分之五十的荔枝通过电商渠道销售，物流车可实现二十四小时无间断运输",
+        "evidence_refs": [
+          "54f454370ef33fb2-chunk-002"
+        ]
+      },
+      {
+        "finding": "政府支持通过文化赋能、定制加模式及网红电商力量助力农产品销售与品牌延伸",
+        "evidence_refs": [
+          "54f454370ef33fb2-chunk-003"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "商家可考虑接入农业人工智能助手以降低种植风险并提升管理效率",
+        "evidence_refs": [
+          "88fae11c1793339e"
+        ]
+      },
+      {
+        "implication": "线上渠道选择可侧重电商直播基地合作，利用流量变农资模式开拓销售新局面",
+        "evidence_refs": [
+          "54f454370ef33fb2-chunk-002"
+        ]
+      },
+      {
+        "implication": "品牌建设可结合文化展演、农事体验项目实现产业增值",
+        "evidence_refs": [
+          "54f454370ef33fb2-chunk-003"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "案例基于广东茂名荔枝产业，基础设施与规模可能不具备普遍复制性",
+      "人工智能效果依赖特定地区气象与病害数据积累，其他地区需验证",
+      "电商销售占比数据为特定村庄案例，不代表全行业平均水平"
+    ],
+    "recommended_queries": [
+      "农产品线上渠道应怎么选",
+      "品牌建设或品牌表达应怎么做",
+      "人工智能在农业种植中如何应用",
+      "电商直播如何助力农产品出村进城"
+    ],
+    "doc_id": "54f454370ef33fb2",
+    "title": "荔枝树下，手机变身新农具-中国农网",
+    "source_path": "04_区域市场与渠道/荔枝树下手机变身新农具_中国农网.html",
+    "theme_path": "04_区域市场与渠道"
+  },
+  {
+    "research_type": "paper",
+    "evidence_strength": "medium",
+    "card_summary": "本研究基于长三角地区 285 名消费者数据，采用 Logistic 回归模型分析可追溯有机农产品购买意愿。发现消费者态度、追溯系统完善性及价格波动显著影响购买意愿，而个人特征、购买便利性及认证监管力度影响不显著。建议从改善价值感知、强化市场定位、完善追溯系统及减少价格波动四方面提升购买意愿。",
+    "core_variables": [
+      "消费者态度",
+      "可追溯系统完善性",
+      "价格波动",
+      "购买意愿",
+      "个人特征",
+      "购买便利性",
+      "认证监管力度"
+    ],
+    "variable_relations": [
+      {
+        "statement": "消费者对有机农产品的态度显著正向影响购买意愿",
+        "direction": "positive",
+        "evidence_refs": []
+      },
+      {
+        "statement": "可追溯系统的完善性显著正向影响购买意愿",
+        "direction": "positive",
+        "evidence_refs": []
+      },
+      {
+        "statement": "可追溯有机农产品的价格波动显著影响购买意愿，价格上升抑制意愿",
+        "direction": "negative",
+        "evidence_refs": []
+      },
+      {
+        "statement": "个人特征、购买便利性、有机认证监管力度对购买意愿无显著影响",
+        "direction": "unclear",
+        "evidence_refs": []
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "消费者对有机农产品的态度、可追溯系统完善性和价格波动对购买意愿有不同程度影响",
+        "evidence_refs": []
+      },
+      {
+        "finding": "个人特征、可追溯有机产品购买便利性、有机认证监管力度对购买意愿不具有显著影响",
+        "evidence_refs": []
+      },
+      {
+        "finding": "可追溯技术和平台发展越完善，消费者购买意愿越高",
+        "evidence_refs": []
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "严守有机生产标准，改善消费者价值感知",
+        "evidence_refs": []
+      },
+      {
+        "implication": "强化有机农产品市场定位，突出健康安全属性",
+        "evidence_refs": []
+      },
+      {
+        "implication": "完善可追溯系统，提升信息质量与可靠性",
+        "evidence_refs": []
+      },
+      {
+        "implication": "减少价格波动，稳定消费者支付预期",
+        "evidence_refs": []
+      }
+    ],
+    "risk_warnings": [
+      "结论基于长三角地区 285 名消费者样本，可能不适用于其他区域或更大样本群体",
+      "个人特征无显著影响的结论可能与特定样本结构有关，不可直接泛化",
+      "研究针对可追溯有机农产品，结论未必适用于普通农产品"
+    ],
+    "recommended_queries": [
+      "影响有机农产品购买意愿的因素有哪些",
+      "可追溯系统如何影响消费者购买决策",
+      "价格波动对有机农产品销售的影响",
+      "如何提升消费者对有机农产品的信任度"
+    ],
+    "doc_id": "e7eb49c85356d648",
+    "title": "消费者对可追溯有机农产品的购买意愿研究 以长三角地区为例",
+    "source_path": "05_溯源信任与购买行为/消费者对可追溯有机农产品的购买意愿研究_以长三角地区为例.pdf",
+    "theme_path": "05_溯源信任与购买行为"
+  },
+  {
+    "research_type": "case",
+    "evidence_strength": "limited",
+    "card_summary": "麻阳冰糖橙通过统一品牌标识与标准化生产，结合电商直播及微商渠道，实现产业弯道超车。2021 年产业链产值达 18 亿元，农户收益显著提升。案例显示区域公用品牌整合与多渠道销售能有效应对市场同质化竞争，但需注意品质管控与品牌保护，避免过度依赖单一模式。",
+    "core_variables": [
+      "品牌统一",
+      "电商渠道",
+      "标准化生产",
+      "农户收益",
+      "产业规模"
+    ],
+    "variable_relations": [
+      {
+        "statement": "品牌统一促进产业产值增长",
+        "direction": "positive",
+        "evidence_refs": [
+          "6c8ed0651834cc68-chunk-002"
+        ]
+      },
+      {
+        "statement": "电商渠道拓展提升销售规模",
+        "direction": "positive",
+        "evidence_refs": [
+          "6c8ed0651834cc68-chunk-001"
+        ]
+      },
+      {
+        "statement": "标准化生产增强品牌竞争力",
+        "direction": "positive",
+        "evidence_refs": [
+          "6c8ed0651834cc68-chunk-002"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "统一品牌解决同质化问题",
+        "evidence_refs": [
+          "6c8ed0651834cc68-chunk-002"
+        ]
+      },
+      {
+        "finding": "电商带动农户增收",
+        "evidence_refs": [
+          "6c8ed0651834cc68-chunk-001"
+        ]
+      },
+      {
+        "finding": "标准化规范提升产品溢价",
+        "evidence_refs": [
+          "6c8ed0651834cc68-chunk-002"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "商家可参考品牌整合策略",
+        "evidence_refs": [
+          "6c8ed0651834cc68-chunk-002"
+        ]
+      },
+      {
+        "implication": "重视多渠道布局",
+        "evidence_refs": [
+          "6c8ed0651834cc68-chunk-001"
+        ]
+      },
+      {
+        "implication": "加强供应链标准化",
+        "evidence_refs": [
+          "6c8ed0651834cc68-chunk-002"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "地域特异性强",
+      "政策依赖度高",
+      "案例成功不可直接复制到其他品类"
+    ],
+    "recommended_queries": [
+      "麻阳冰糖橙品牌建设经验",
+      "农产品电商增收案例",
+      "区域公用品牌管理方法"
+    ],
+    "doc_id": "6c8ed0651834cc68",
+    "title": "ǳȵ",
+    "source_path": "06_案例与复盘/麻阳冰糖橙的弯道超车_中国农网.html",
+    "theme_path": "06_案例与复盘"
+  },
+  {
+    "research_type": "mixed",
+    "evidence_strength": "limited",
+    "card_summary": "本文基于禁止蕉绿案例，指出情绪价值已成为影响年轻消费者决策的重要因素。农产品营销需结合消费者心理需求调整包装与文案，利用互联网获取用户画像以实现精准营销。但营销仅能短期吸引注意力，长期竞争仍依赖产品质量与品牌影响力。多数农业品牌对互联网重视不足，缺乏市场调研。",
+    "core_variables": [
+      "情绪价值",
+      "消费者购买行为",
+      "产品质量",
+      "品牌影响力",
+      "互联网营销",
+      "用户画像"
+    ],
+    "variable_relations": [
+      {
+        "statement": "情绪价值满足与消费者购买意愿呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "0dada70c55239e17",
+          "18f637cbca59fcd0",
+          "def77c16fb05a641"
+        ]
+      },
+      {
+        "statement": "市场调研深度与营销精准度呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "fb38d735511e481f-chunk-010"
+        ]
+      },
+      {
+        "statement": "营销手段与品牌长期竞争力关系复杂，需配合产品质量",
+        "direction": "mixed",
+        "evidence_refs": [
+          "2881fe8a6214c190"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "年轻消费者更愿为附带仪式感和情绪获得感的产品买单",
+        "evidence_refs": [
+          "def77c16fb05a641",
+          "18f637cbca59fcd0"
+        ]
+      },
+      {
+        "finding": "禁止蕉绿案例显示谐音梗与包装创新可引爆销量",
+        "evidence_refs": [
+          "fb38d735511e481f-chunk-004",
+          "fb38d735511e481f-chunk-005"
+        ]
+      },
+      {
+        "finding": "多数农业品牌缺乏目标消费者画像，难以实施精准营销",
+        "evidence_refs": [
+          "fb38d735511e481f-chunk-010"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "商家应调整包装设计以迎合消费者情绪需求",
+        "evidence_refs": [
+          "fb38d735511e481f-chunk-005",
+          "bf55c949b6aeb935"
+        ]
+      },
+      {
+        "implication": "利用互联网平台优势获取市场信息与用户画像",
+        "evidence_refs": [
+          "fb38d735511e481f-chunk-010"
+        ]
+      },
+      {
+        "implication": "品牌建设需坚持产品质量与营销创新两条腿走路",
+        "evidence_refs": [
+          "2881fe8a6214c190"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "禁止蕉绿属于特定案例，不可硬说成普遍规律",
+      "营销仅能短期吸引注意力，不能替代产品质量",
+      "证据强度有限，主要基于个案与专家观点"
+    ],
+    "recommended_queries": [
+      "农产品如何做情绪价值营销",
+      "包装和礼盒会加分还是减分",
+      "线上渠道应怎么选",
+      "品牌建设或品牌表达应怎么做"
+    ],
+    "doc_id": "fb38d735511e481f",
+    "title": "从“禁止蕉绿”发现农产品情绪价值营销-中国农网",
+    "source_path": "06_案例与复盘/禁止蕉绿_农产品情绪价值营销_中国农网.html",
+    "theme_path": "06_案例与复盘"
+  },
+  {
+    "research_type": "report",
+    "evidence_strength": "limited",
+    "card_summary": "京东发布 2025 年热销地标农产品报告，涵盖云南黑松露、福建琯溪蜜柚等案例。通过源头直采、冷链物流及品牌化运营，地标农产品搜索热度增长超 20 倍，用户数高速增长。策略包括降低认知门槛、拓展礼赠场景及数字化溯源，有效带动产地产值与农户收入，为农产品电商化提供范本。",
+    "core_variables": [
+      "供应链模式",
+      "地理标志认证",
+      "冷链物流效率",
+      "营销场景拓展",
+      "销售成交额",
+      "用户增长规模"
+    ],
+    "variable_relations": [
+      {
+        "statement": "源头直采模式与成本降低及销售增长呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "7224a73a29902ad9-chunk-002",
+          "7224a73a29902ad9-chunk-003"
+        ]
+      },
+      {
+        "statement": "冷链物流完善与生鲜产品市场扩张呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "7224a73a29902ad9-chunk-002",
+          "7224a73a29902ad9-chunk-004"
+        ]
+      },
+      {
+        "statement": "地理标志与信任度提升及溢价能力呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "7224a73a29902ad9-chunk-002"
+        ]
+      },
+      {
+        "statement": "礼赠包装与节日销售爆发呈正相关",
+        "direction": "positive",
+        "evidence_refs": [
+          "7224a73a29902ad9-chunk-002"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "云南黑松露购物用户数同比增长超 10 倍",
+        "evidence_refs": [
+          "7224a73a29902ad9-chunk-002"
+        ]
+      },
+      {
+        "finding": "福建琯溪蜜柚源头直发销售成交额同比提升 160%",
+        "evidence_refs": [
+          "7224a73a29902ad9-chunk-003"
+        ]
+      },
+      {
+        "finding": "地标农产品搜索热度普遍增长超 20 倍",
+        "evidence_refs": [
+          "7224a73a29902ad9-chunk-002"
+        ]
+      },
+      {
+        "finding": "宿迁霸王蟹整体销售额达到 5 亿元",
+        "evidence_refs": [
+          "7224a73a29902ad9-chunk-004"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "商家可采用源头直采模式以降低成本并把控货源",
+        "evidence_refs": [
+          "7224a73a29902ad9-chunk-003"
+        ]
+      },
+      {
+        "implication": "利用地理标志和溯源信息建立消费者信任机制",
+        "evidence_refs": [
+          "7224a73a29902ad9-chunk-002"
+        ]
+      },
+      {
+        "implication": "针对节日场景设计礼盒包装可提升销量",
+        "evidence_refs": [
+          "7224a73a29902ad9-chunk-002"
+        ]
+      },
+      {
+        "implication": "完善冷链物流是生鲜电商扩张的关键基础设施",
+        "evidence_refs": [
+          "7224a73a29902ad9-chunk-004"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "数据仅基于京东平台 2025 年表现，未必代表全行业通用规律",
+      "案例多为具备规模效应的地标产品，小农户难以直接复制供应链投入",
+      "特定品类如黑松露、大闸蟹的成功依赖特定冷链条件，不适用于所有农产品"
+    ],
+    "recommended_queries": [
+      "地标农产品如何通过电商实现品牌化",
+      "生鲜农产品冷链物流对销售的影响",
+      "农产品礼盒化策略是否适合我的产品",
+      "源头直采模式如何降低运营成本"
+    ],
+    "doc_id": "7224a73a29902ad9",
+    "title": "你的家乡特产“出圈了”吗？京东发布2025年热销地标农产品|黑松露 新浪财经 新浪网",
+    "source_path": "06_案例与复盘/jd_geo_products_sina_case.html",
+    "theme_path": "06_案例与复盘"
+  },
+  {
+    "research_type": "case",
+    "evidence_strength": "limited",
+    "card_summary": "广东荔枝产业通过品种更新换代如观音绿冰荔等提升市场价值，利用冻眠锁鲜技术打破季节限制，营养成分保留八成以上。发展精深加工如果汁果酒护肤品拓展附加值，结合电商直播与农文旅融合营销，依托政策补贴完善冷链与智慧果园设施，实现从规模优势向价值优势升级。",
+    "core_variables": [
+      "品种更新",
+      "保鲜技术",
+      "精深加工",
+      "营销渠道",
+      "政策补贴"
+    ],
+    "variable_relations": [
+      {
+        "statement": "品种优化有助于维持市场价格稳定",
+        "direction": "positive",
+        "evidence_refs": [
+          "0851d0a8e589eeb5-chunk-003"
+        ]
+      },
+      {
+        "statement": "保鲜技术突破可扩大销售市场范围",
+        "direction": "positive",
+        "evidence_refs": [
+          "0851d0a8e589eeb5-chunk-004"
+        ]
+      },
+      {
+        "statement": "精深加工能挖掘农产品附加值",
+        "direction": "positive",
+        "evidence_refs": [
+          "0851d0a8e589eeb5-chunk-005"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "冻眠一年荔枝解冻后营养成分保持在百分之八十以上",
+        "evidence_refs": [
+          "3edd6efb3d6f3d79",
+          "0851d0a8e589eeb5-chunk-004"
+        ]
+      },
+      {
+        "finding": "智慧农业设备可提升种植养护与采摘效率",
+        "evidence_refs": [
+          "0851d0a8e589eeb5-chunk-003"
+        ]
+      },
+      {
+        "finding": "跨界合作开发护肤品可提高整果利用率",
+        "evidence_refs": [
+          "0851d0a8e589eeb5-chunk-006"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "商家可引入锁鲜技术延长销售周期",
+        "evidence_refs": [
+          "0851d0a8e589eeb5-chunk-004"
+        ]
+      },
+      {
+        "implication": "发展深加工产品线有助于消化丰产压力",
+        "evidence_refs": [
+          "0851d0a8e589eeb5-chunk-005"
+        ]
+      },
+      {
+        "implication": "结合文旅体验与线上直播能增强品牌知名度",
+        "evidence_refs": [
+          "0851d0a8e589eeb5-chunk-006"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "案例依赖广东特定政策补贴，其他地区未必有相同资金支持",
+      "荔枝品种特性具有地域性，换种效果需结合当地气候评估",
+      "出口数据基于特定企业案例，不代表行业普遍水平"
+    ],
+    "recommended_queries": [
+      "农产品如何通过保鲜技术延长销售期",
+      "水果礼盒化与精深加工如何提升附加值",
+      "农业品牌建设与线上渠道如何选择"
+    ],
+    "doc_id": "0851d0a8e589eeb5",
+    "title": "广东荔枝突围记-中国农网",
+    "source_path": "06_案例与复盘/广东荔枝突围记_中国农网.html",
+    "theme_path": "06_案例与复盘"
+  },
+  {
+    "research_type": "case",
+    "evidence_strength": "limited",
+    "card_summary": "甘肃农产品依托甘味品牌对接长三角，利用地域差异营销。企业通过私域电商、社区团购及农博会对接采购商。深加工产品如油杏茶更受欢迎。地理标志和有机认证支撑溢价，如庆阳苹果和高价苹果案例。",
+    "core_variables": [
+      "品牌建设",
+      "渠道策略",
+      "产品深加工",
+      "地理标志",
+      "溢价能力"
+    ],
+    "variable_relations": [
+      {
+        "statement": "品牌建设提升市场竞争力",
+        "direction": "positive",
+        "evidence_refs": [
+          "75cc7833bedc5523-chunk-003"
+        ]
+      },
+      {
+        "statement": "产品深加工匹配市场需求",
+        "direction": "positive",
+        "evidence_refs": [
+          "75cc7833bedc5523-chunk-003"
+        ]
+      },
+      {
+        "statement": "地理标志支撑产品溢价",
+        "direction": "positive",
+        "evidence_refs": [
+          "75cc7833bedc5523-chunk-004"
+        ]
+      },
+      {
+        "statement": "展会平台促进渠道对接",
+        "direction": "positive",
+        "evidence_refs": [
+          "75cc7833bedc5523-chunk-002"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "地域差异是营销卖点",
+        "evidence_refs": [
+          "75cc7833bedc5523-chunk-001"
+        ]
+      },
+      {
+        "finding": "深加工产品比鲜果更受市场欢迎",
+        "evidence_refs": [
+          "75cc7833bedc5523-chunk-003"
+        ]
+      },
+      {
+        "finding": "社区团购和私域电商是有效对接渠道",
+        "evidence_refs": [
+          "75cc7833bedc5523-chunk-002"
+        ]
+      },
+      {
+        "finding": "地理标志产品能支撑高溢价",
+        "evidence_refs": [
+          "75cc7833bedc5523-chunk-004"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "利用地域气候差异讲述品牌故事",
+        "evidence_refs": [
+          "75cc7833bedc5523-chunk-001"
+        ]
+      },
+      {
+        "implication": "发展深加工以适应消费升级",
+        "evidence_refs": [
+          "75cc7833bedc5523-chunk-003"
+        ]
+      },
+      {
+        "implication": "积极参加农博会等线下展会对接采购商",
+        "evidence_refs": [
+          "75cc7833bedc5523-chunk-002"
+        ]
+      },
+      {
+        "implication": "申请地理标志和绿色认证以提升溢价",
+        "evidence_refs": [
+          "75cc7833bedc5523-chunk-004"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "案例多为展会期间表现，日常销售可能不同",
+      "高价苹果案例属于特定品种，不可泛化为所有苹果",
+      "依赖政府搭建平台，企业自主渠道能力需验证"
+    ],
+    "recommended_queries": [
+      "甘肃农产品如何对接长三角市场",
+      "社区团购适合哪些农产品",
+      "地理标志农产品如何支撑溢价",
+      "农产品深加工对市场销售的影响"
+    ],
+    "doc_id": "75cc7833bedc5523",
+    "title": "当“甘味”遇上江南 ——甘肃农产品对接营销长三角市场观察",
+    "source_path": "06_案例与复盘/甘味遇上江南_甘肃农产品对接长三角_农业农村部.html",
+    "theme_path": "06_案例与复盘"
+  },
+  {
+    "research_type": "paper",
+    "evidence_strength": "medium",
+    "card_summary": "本研究基于长三角地区 285 名消费者数据，采用 Logistic 回归模型分析可追溯有机农产品购买意愿。结果显示，消费者态度、追溯系统完善性及价格波动显著影响购买意愿，而个人特征、购买便利性及认证监管力度影响不显著。建议从改善价值感知、强化市场定位、完善追溯系统及减少价格波动四方面入手。",
+    "core_variables": [
+      "消费者态度",
+      "可追溯系统完善性",
+      "价格波动",
+      "个人特征",
+      "购买便利性",
+      "有机认证监管力度"
+    ],
+    "variable_relations": [
+      {
+        "statement": "消费者对有机农产品的态度对购买意愿有正向影响",
+        "direction": "positive",
+        "evidence_refs": [
+          "9737ec562a478961-chunk-001",
+          "d5d4a3a2c813d20f"
+        ]
+      },
+      {
+        "statement": "可追溯系统完善性对购买意愿有正向影响",
+        "direction": "positive",
+        "evidence_refs": [
+          "9737ec562a478961-chunk-001",
+          "d37af06a8dafded3"
+        ]
+      },
+      {
+        "statement": "可追溯有机农产品价格波动对购买意愿有负向影响",
+        "direction": "negative",
+        "evidence_refs": [
+          "9737ec562a478961-chunk-001",
+          "76552a01f49a3502"
+        ]
+      },
+      {
+        "statement": "个人特征对购买意愿无显著影响",
+        "direction": "unclear",
+        "evidence_refs": [
+          "9737ec562a478961-chunk-001"
+        ]
+      },
+      {
+        "statement": "购买便利性及有机认证监管力度对购买意愿无显著影响",
+        "direction": "unclear",
+        "evidence_refs": [
+          "9737ec562a478961-chunk-001"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "长三角地区消费者购买意愿主要受态度、系统完善度和价格波动驱动",
+        "evidence_refs": [
+          "9737ec562a478961-chunk-001"
+        ]
+      },
+      {
+        "finding": "价格波动越小如低于百分之二十五消费者购买意愿越高",
+        "evidence_refs": [
+          "76552a01f49a3502"
+        ]
+      },
+      {
+        "finding": "个人特征如年龄性别职业等对购买意愿不具有显著影响",
+        "evidence_refs": [
+          "9737ec562a478961-chunk-001"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "企业应严守有机生产标准以改善消费者价值感知",
+        "evidence_refs": [
+          "b3c3c745be68e753"
+        ]
+      },
+      {
+        "implication": "需完善可追溯系统并减少价格波动以提升购买意愿",
+        "evidence_refs": [
+          "d37af06a8dafded3"
+        ]
+      },
+      {
+        "implication": "应强化有机农产品市场定位突出健康安全属性",
+        "evidence_refs": [
+          "76552a01f49a3502"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "样本仅限长三角地区 285 人结论不宜泛化至全国",
+      "个人特征无显著影响的结论可能受样本结构限制",
+      "价格波动影响基于特定区间划分不同市场可能表现不同"
+    ],
+    "recommended_queries": [
+      "长三角消费者买有机农产品看重什么",
+      "追溯系统怎么影响购买意愿",
+      "有机农产品价格波动影响大吗",
+      "个人特征影响有机农产品购买吗"
+    ],
+    "doc_id": "9737ec562a478961",
+    "title": "可追溯有机农产品购买意愿 长三角",
+    "source_path": "07_学术与研究资料/01_消费者与购买意愿/可追溯有机农产品购买意愿_长三角.pdf",
+    "theme_path": "07_学术与研究资料/01_消费者与购买意愿"
+  },
+  {
+    "research_type": "paper",
+    "evidence_strength": "medium",
+    "card_summary": "本研究基于吉林省 370 份问卷，分析地理标志农产品购买意愿。发现消费者认知、产品质量、品牌建设、历史文化等均显著正向影响购买意愿。消费者认知在外部因素与购买意愿间起中介调节作用。建议加强监管、保障质量、加大品牌与文化宣传。",
+    "core_variables": [
+      "消费者认知",
+      "产品质量",
+      "品牌建设",
+      "历史文化",
+      "购买意愿",
+      "消费者需求"
+    ],
+    "variable_relations": [
+      {
+        "statement": "产品质量显著正向影响购买意愿",
+        "direction": "positive",
+        "evidence_refs": [
+          "1fb65b42929c746b",
+          "8f27cfcbdef906f4-chunk-002"
+        ]
+      },
+      {
+        "statement": "消费者认知在外部因素与购买意愿间起中介调节作用",
+        "direction": "positive",
+        "evidence_refs": [
+          "8f27cfcbdef906f4-chunk-003",
+          "669e5ecd750ad880"
+        ]
+      },
+      {
+        "statement": "品牌建设显著正向影响购买意愿",
+        "direction": "positive",
+        "evidence_refs": [
+          "1fb65b42929c746b"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "直接效应占比百分之九十七，调节效应占比百分之三",
+        "evidence_refs": [
+          "669e5ecd750ad880"
+        ]
+      },
+      {
+        "finding": "消费者认为地理标志农产品质量更好占比百分之二十七点八",
+        "evidence_refs": [
+          "2bec2b85a413d49c"
+        ]
+      },
+      {
+        "finding": "内部与外部因素均呈现显著正相关",
+        "evidence_refs": [
+          "1fb65b42929c746b"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "应提高产品品质并扩大区域品牌影响力",
+        "evidence_refs": [
+          "0ab52a0e5f0f6465"
+        ]
+      },
+      {
+        "implication": "需加强市场监管以解决认证耗时及质量问题",
+        "evidence_refs": [
+          "cc8c8e0c1a475318"
+        ]
+      },
+      {
+        "implication": "加大历史文化背景宣传以提升认知",
+        "evidence_refs": [
+          "8f27cfcbdef906f4-chunk-003"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "数据仅来自吉林省，结论未必适用于全国其他地区",
+      "样本量为 370 份，代表性可能存在局限",
+      "属于硕士学位论文，证据强度不如核心期刊综述"
+    ],
+    "recommended_queries": [
+      "地理标志农产品购买意愿影响因素",
+      "消费者认知对农产品购买的影响",
+      "吉林省地理标志农产品发展建议"
+    ],
+    "doc_id": "8f27cfcbdef906f4",
+    "title": "消费者对吉林省地理标志农产品购买意愿的影响因素研究",
+    "source_path": "07_学术与研究资料/01_消费者与购买意愿/消费者对吉林省地理标志农产品购买意愿的影响因素研究.pdf",
+    "theme_path": "07_学术与研究资料/01_消费者与购买意愿"
+  },
+  {
+    "research_type": "paper",
+    "evidence_strength": "medium",
+    "card_summary": "本研究基于 SOR 理论，通过 573 份有效问卷实证分析消费者感知对有机农产品购买意愿的影响。研究发现消费者感知和行为态度均显著正向影响购买意愿，且行为态度在两者间起中介效应。建议企业通过提高产品质量、强化品牌形象及加强消费者教育来提升购买意愿。研究为有机农产品营销提供了理论依据。",
+    "core_variables": [
+      "消费者感知",
+      "行为态度",
+      "购买意愿"
+    ],
+    "variable_relations": [
+      {
+        "statement": "消费者感知显著正向影响购买意愿",
+        "direction": "positive",
+        "evidence_refs": [
+          "de4411ed2a98486d",
+          "2abae52ebfc0165f-chunk-013"
+        ]
+      },
+      {
+        "statement": "行为态度显著正向影响购买意愿",
+        "direction": "positive",
+        "evidence_refs": [
+          "06b0035077ea5f8d",
+          "2abae52ebfc0165f-chunk-015"
+        ]
+      },
+      {
+        "statement": "行为态度在消费者感知与购买意愿间存在中介效应",
+        "direction": "positive",
+        "evidence_refs": [
+          "eda7d7e137fb2246",
+          "2abae52ebfc0165f-chunk-015"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "消费者感知能够显著正向影响消费者有机农产品购买意愿",
+        "evidence_refs": [
+          "de4411ed2a98486d"
+        ]
+      },
+      {
+        "finding": "行为态度中介效应检验结果成立，效应占比为 55%",
+        "evidence_refs": [
+          "2abae52ebfc0165f-chunk-015"
+        ]
+      },
+      {
+        "finding": "回归分析显示消费者感知和行为态度对购买意愿具有显著性",
+        "evidence_refs": [
+          "3bd95cce7d5a787a"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "提高产品或服务质量以提升消费者感知质量",
+        "evidence_refs": [
+          "29c235e2c2e744b1"
+        ]
+      },
+      {
+        "implication": "结合消费者感知和态度特点采用多种宣传推广方式",
+        "evidence_refs": [
+          "7a80eea4e1684582"
+        ]
+      },
+      {
+        "implication": "加强消费者教育以提高认知水平，塑造行为倾向",
+        "evidence_refs": [
+          "2abae52ebfc0165f-chunk-016"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "样本主要来自江西部分地区及网络问卷，结论推广至全国需谨慎",
+      "研究对象为有机农产品，其他品类适用性需验证"
+    ],
+    "recommended_queries": [
+      "有机农产品消费者购买意愿影响因素",
+      "如何通过消费者感知提升农产品销量",
+      "行为态度在农产品购买中的中介作用"
+    ],
+    "doc_id": "2abae52ebfc0165f",
+    "title": "消费者感知对有机农产品购买意愿研究——基于SOR理论的实证分析 A Study of Consumer Perceptions on the Purchase Intention of Organic Agricultural Products—An Empirical Analysis Based on SOR Theory",
+    "source_path": "07_学术与研究资料/01_消费者与购买意愿/消费者感知对有机农产品购买意愿研究.html",
+    "theme_path": "07_学术与研究资料/01_消费者与购买意愿"
+  },
+  {
+    "research_type": "paper",
+    "evidence_strength": "medium",
+    "card_summary": "本研究基于湖南省城市调查数据，采用 Logistic 回归模型分析发现，购物体验与消费者信任显著影响生鲜网购行为。新零售模式能提升质量信任与尝试意愿，促进网购。年龄增长、网购经验丰富者更倾向网购。配送时限与物流费率是主要阻碍，新零售可缓解。建议企业与当地门店合作推广中小城市业务。",
+    "core_variables": [
+      "购物体验",
+      "消费者信任",
+      "新零售模式",
+      "生鲜网购行为",
+      "年龄",
+      "物流费率"
+    ],
+    "variable_relations": [
+      {
+        "statement": "购物体验对生鲜网购行为有显著正向影响",
+        "direction": "positive",
+        "evidence_refs": [
+          "1f02fc4122ba2ca6",
+          "894e0fa5ab03def2-chunk-011"
+        ]
+      },
+      {
+        "statement": "消费者信任在购物体验与网购行为间起部分中介作用",
+        "direction": "positive",
+        "evidence_refs": [
+          "1f02fc4122ba2ca6",
+          "894e0fa5ab03def2-chunk-013"
+        ]
+      },
+      {
+        "statement": "新零售模式对网购行为有显著促进作用",
+        "direction": "positive",
+        "evidence_refs": [
+          "894e0fa5ab03def2-chunk-001",
+          "e51555f92af3a30d"
+        ]
+      },
+      {
+        "statement": "年龄对消费者网购生鲜农产品有正向影响",
+        "direction": "positive",
+        "evidence_refs": [
+          "5dd03b295098fc1a"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "购物体验、消费者信任对消费者的生鲜网购行为有显著影响",
+        "evidence_refs": [
+          "894e0fa5ab03def2-chunk-001"
+        ]
+      },
+      {
+        "finding": "新零售模式能有效提高消费者对网上生鲜产品质量的信任和网购尝试的意愿",
+        "evidence_refs": [
+          "894e0fa5ab03def2-chunk-001"
+        ]
+      },
+      {
+        "finding": "配送时限和物流费率范围对消费者网购行为有显著的正向影响，新零售可克服此缺点",
+        "evidence_refs": [
+          "894e0fa5ab03def2-chunk-015"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "建议相关企业可以采取与当地生鲜门店合作的方式，加快对中小型城市地区的推广",
+        "evidence_refs": [
+          "bc6af6774155c998",
+          "894e0fa5ab03def2-chunk-015"
+        ]
+      },
+      {
+        "implication": "建议相关企业考虑新零售模式来推进中小型城市的生鲜电子商务业务",
+        "evidence_refs": [
+          "e51555f92af3a30d",
+          "894e0fa5ab03def2-chunk-015"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "数据来源于湖南省城市调查，结论可能受地域限制",
+      "新零售经营成本较高，目前在大型城市开设门店为主"
+    ],
+    "recommended_queries": [
+      "购物体验如何影响生鲜网购意愿",
+      "新零售模式对生鲜电商有什么促进作用",
+      "消费者信任如何影响生鲜购买决策"
+    ],
+    "doc_id": "894e0fa5ab03def2",
+    "title": "消费者购物体验与品牌信任对生鲜购买意愿影响",
+    "source_path": "07_学术与研究资料/01_消费者与购买意愿/消费者购物体验与品牌信任对生鲜购买意愿影响.pdf",
+    "theme_path": "07_学术与研究资料/01_消费者与购买意愿"
+  },
+  {
+    "research_type": "paper",
+    "evidence_strength": "medium",
+    "card_summary": "本文研究农产品区域公用品牌推广策略。指出区域公用品牌具有公共物品属性，推广效果受费用预算和市场阶段影响。地理标志和商标能显著提升价格和品牌价值，如紫阳富硒茶案例。包装设计需结合区域特色与年轻消费群体喜好。推广方式包括口碑、广告等，需避免重建设轻推广。",
+    "core_variables": [
+      "品牌推广效果",
+      "费用预算",
+      "市场销售阶段",
+      "包装设计",
+      "地理标志",
+      "品牌价值"
+    ],
+    "variable_relations": [
+      {
+        "statement": "费用预算过低会限制传播方式选择，导致宣传效果降低",
+        "direction": "positive",
+        "evidence_refs": [
+          "05a0dda4a1096c4c"
+        ]
+      },
+      {
+        "statement": "使用地理标志商标后商品价格通常比普通农产品高，品牌价值提升显著",
+        "direction": "positive",
+        "evidence_refs": [
+          "6f744dcdd32cd046"
+        ]
+      },
+      {
+        "statement": "包装设计结合区域特色并关注年轻群体需求，可积累口碑提升品牌价值",
+        "direction": "positive",
+        "evidence_refs": [
+          "629124783943b062"
+        ]
+      },
+      {
+        "statement": "区域公用品牌农产品所处市场阶段不同，采用的品牌营销传播方式应有所侧重",
+        "direction": "unclear",
+        "evidence_refs": [
+          "846240019f42027c"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "农产品区域公用品牌属于公共物品，具有非排他性和非竞争性特征",
+        "evidence_refs": [
+          "9ddd2c9d78362059",
+          "44738b40dc5268e7-chunk-006"
+        ]
+      },
+      {
+        "finding": "推广费用预算是影响农产品区域公用品牌推广效果的制约因素",
+        "evidence_refs": [
+          "05a0dda4a1096c4c"
+        ]
+      },
+      {
+        "finding": "部分商品在使用地理标志商标后价格增长三到六倍，品牌价值提升显著",
+        "evidence_refs": [
+          "6f744dcdd32cd046"
+        ]
+      },
+      {
+        "finding": "农产品从传统渠道转向电子商务平台，消费群体日趋年轻化",
+        "evidence_refs": [
+          "629124783943b062"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "商家应确保足够的品牌推广费用预算，避免效果受限",
+        "evidence_refs": [
+          "05a0dda4a1096c4c"
+        ]
+      },
+      {
+        "implication": "积极申请专利和注册商标，引领行业标准以提升竞争力",
+        "evidence_refs": [
+          "13ed6efaa9b9d91f"
+        ]
+      },
+      {
+        "implication": "设计带有属地标识的精美包装，积累消费者口碑",
+        "evidence_refs": [
+          "629124783943b062"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "价格增长数据基于盐池滩羊等特定案例，证据强度有限，不可直接泛化为普遍规律",
+      "不同市场销售阶段需采用不同传播方式，不能一概而论",
+      "区域公用品牌具有公共物品属性，多方共用可能影响品牌独占性"
+    ],
+    "recommended_queries": [
+      "农产品区域公用品牌推广效果受哪些因素影响",
+      "地理标志能否支撑农产品溢价",
+      "农产品包装设计如何提升品牌价值",
+      "区域公用品牌具有什么特征"
+    ],
+    "doc_id": "44738b40dc5268e7",
+    "title": "农产品区域公用品牌推广效果提升策略研究 Study on Promotion Strategy of Regional Public Brand Promotion in Agricultural Products",
+    "source_path": "07_学术与研究资料/02_品牌与区域公用品牌/农产品区域公用品牌推广效果提升策略研究.html",
+    "theme_path": "07_学术与研究资料/02_品牌与区域公用品牌"
+  },
+  {
+    "research_type": "paper",
+    "evidence_strength": "medium",
+    "card_summary": "本研究针对云南咖啡规模领先但价值滞后的困境，基于 S-O-R 理论，通过 212 份问卷实证分析原产地形象对购买意愿的影响。研究发现价值感知在生态、技术、文化三维形象与购买意愿间起中介作用。其中技术维度为完全中介，生态与文化为部分中介，文化维度直接效应最强。该研究为边疆特色农产品品牌建设提供了从规模红利向品牌红利跃迁的实践范式。",
+    "core_variables": [
+      "原产地形象",
+      "价值感知",
+      "购买意愿",
+      "生态维度",
+      "技术维度",
+      "文化维度"
+    ],
+    "variable_relations": [
+      {
+        "statement": "价值感知在原产地形象与购买意愿间起中介作用",
+        "direction": "positive",
+        "evidence_refs": [
+          "fb3a2760a53717de",
+          "7905ab8cc58bbcbf-chunk-001"
+        ]
+      },
+      {
+        "statement": "文化维度对购买意愿的直接效应最强",
+        "direction": "positive",
+        "evidence_refs": [
+          "fb3a2760a53717de",
+          "7905ab8cc58bbcbf-chunk-001"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "技术维度对购买意愿的影响完全通过价值感知中介实现",
+        "evidence_refs": [
+          "fb3a2760a53717de"
+        ]
+      },
+      {
+        "finding": "生态与文化维度对购买意愿既有直接效应也有间接中介效应",
+        "evidence_refs": [
+          "fb3a2760a53717de"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "品牌建设应重视文化维度挖掘以提升直接购买意愿",
+        "evidence_refs": [
+          "fb3a2760a53717de"
+        ]
+      },
+      {
+        "implication": "技术维度需通过提升价值感知间接促进购买",
+        "evidence_refs": [
+          "fb3a2760a53717de"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "结论基于云南咖啡样本，泛化至其他农产品需谨慎",
+      "样本量为 212 份，证据强度受限于特定区域产业背景"
+    ],
+    "recommended_queries": [
+      "云南咖啡品牌建设策略",
+      "原产地形象如何影响购买意愿",
+      "农产品价值感知中介作用"
+    ],
+    "doc_id": "7905ab8cc58bbcbf",
+    "title": "原产地形象、价值感知与消费决策：云南咖啡产业的实证研究",
+    "source_path": "07_学术与研究资料/02_品牌与区域公用品牌/原产地形象与感知价值对云南小粒咖啡购买意愿影响.html",
+    "theme_path": "07_学术与研究资料/02_品牌与区域公用品牌"
+  },
+  {
+    "research_type": "paper",
+    "evidence_strength": "limited",
+    "card_summary": "本文实际内容为云南农业大学关于新时代大学语文课程改革与建设的研究。文章提出以提升人文素质和传承中华优秀传统文化为目标定位大学语文课程，构建开放式传统文化课程体系，并以学生为中心强化实践能力进行教学改革。文档标题虽涉及地理标志，但正文内容未涉及农业经营或地理标志经济效应，无法支撑相关农业问题。",
+    "core_variables": [
+      "大学语文课程",
+      "中华优秀传统文化",
+      "人文素质",
+      "课程体系建设"
+    ],
+    "variable_relations": [
+      {
+        "statement": "大学语文课程定位影响学生人文综合素质提升",
+        "direction": "positive",
+        "evidence_refs": [
+          "7fc8fe580c77cc07",
+          "bdfb734e5116e86c-chunk-004"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "大学语文应作为高校公共基础课，承担传承中国优秀文化和文化育人功能",
+        "evidence_refs": [
+          "bdfb734e5116e86c-chunk-004"
+        ]
+      },
+      {
+        "finding": "应建立以大学语文为核心的中国传统文化开放式课程体系",
+        "evidence_refs": [
+          "6114d0a6e967e951",
+          "bdfb734e5116e86c-chunk-006"
+        ]
+      }
+    ],
+    "business_implications": [],
+    "risk_warnings": [
+      "文档标题与正文内容严重不符，正文未涉及地理标志产品保护或经济效应",
+      "教育类研究结论不可泛化至农业经营领域"
+    ],
+    "recommended_queries": [
+      "大学语文课程改革措施",
+      "高校传统文化传承途径"
+    ],
+    "doc_id": "bdfb734e5116e86c",
+    "title": "地理标志产品保护 经济效应与协同机制",
+    "source_path": "07_学术与研究资料/02_品牌与区域公用品牌/地理标志产品保护_经济效应与协同机制.pdf",
+    "theme_path": "07_学术与研究资料/02_品牌与区域公用品牌"
+  },
+  {
+    "research_type": "paper",
+    "evidence_strength": "high",
+    "card_summary": "本研究基于 2012 至 2021 年中国 75 个茶叶产区面板数据，实证分析数字经济对茶叶区域公用品牌价值的影响。研究发现数字经济显著正向驱动品牌资产增值，并通过产业结构优化升级发挥中介作用。此外，数字经济对跨县域公用品牌的价值提升贡献大于县域公用品牌，存在区域异质性，建议因地制宜推动茶产业数字化。",
+    "core_variables": [
+      "数字经济",
+      "产业结构",
+      "茶叶区域公用品牌价值"
+    ],
+    "variable_relations": [
+      {
+        "statement": "数字经济发展指数提高有助于提升茶叶区域公用品牌价值",
+        "direction": "positive",
+        "evidence_refs": []
+      },
+      {
+        "statement": "数字经济可通过产业结构优化升级促进品牌价值提升",
+        "direction": "positive",
+        "evidence_refs": []
+      },
+      {
+        "statement": "数字经济对跨县域公用品牌的价值提升贡献大于县域公用品牌",
+        "direction": "mixed",
+        "evidence_refs": []
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "数字经济是驱动茶叶区域公用品牌价值提升的重要因素",
+        "evidence_refs": []
+      },
+      {
+        "finding": "产业结构优化升级是数字经济赋能品牌价值提升的有效路径",
+        "evidence_refs": []
+      },
+      {
+        "finding": "数字经济对品牌价值提升作用存在明显的区域异质性",
+        "evidence_refs": []
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "茶产业经营者应利用数字技术优化产业结构以增强品牌溢价",
+        "evidence_refs": []
+      },
+      {
+        "implication": "跨县域品牌可更侧重数字化投入以获取更高价值回报",
+        "evidence_refs": []
+      },
+      {
+        "implication": "政策制定需因地制宜，区分县域与跨县域品牌差异化支持",
+        "evidence_refs": []
+      }
+    ],
+    "risk_warnings": [
+      "结论基于茶叶产区面板数据，未必适用于其他农产品品类",
+      "数据截止 2021 年，数字经济环境变化可能影响结论时效性",
+      "异质性表明单一数字化策略无法适用于所有区域公用品牌"
+    ],
+    "recommended_queries": [
+      "数字经济如何影响茶叶区域公用品牌价值",
+      "茶叶品牌建设中产业结构优化的作用是什么",
+      "县域与跨县域茶叶品牌数字化策略有何不同"
+    ],
+    "doc_id": "47d1a6496af47eb4",
+    "title": "数字经济赋能茶叶区域公用品牌价值提升路径",
+    "source_path": "07_学术与研究资料/02_品牌与区域公用品牌/数字经济赋能茶叶区域公用品牌价值提升路径.pdf",
+    "theme_path": "07_学术与研究资料/02_品牌与区域公用品牌"
+  },
+  {
+    "research_type": "paper",
+    "evidence_strength": "medium",
+    "card_summary": "本文针对西南边疆地区农业企业品牌建设进行研究，指出当前品牌化程度较低但资源条件优越。主要影响因素包括质量品质、服务信誉、技术创新、营销推广及政府支持。存在产品同质化严重、定位不准等问题。对策建议找准品牌定位、实施差异化战略、加大科研与财政投入，以提升企业竞争力。",
+    "core_variables": [
+      "品牌建设",
+      "质量与品质",
+      "服务与信誉",
+      "技术创新",
+      "营销与市场推广",
+      "政府支持",
+      "品牌定位"
+    ],
+    "variable_relations": [
+      {
+        "statement": "质量与品质、服务与信誉、技术创新、营销与市场推广、政府支持正向影响农业企业品牌建设",
+        "direction": "positive",
+        "evidence_refs": [
+          "20cf6f9fcf9734d0"
+        ]
+      },
+      {
+        "statement": "产品同质化严重及缺乏准确市场定位负向影响品牌建设与销售",
+        "direction": "negative",
+        "evidence_refs": [
+          "dc883ce81c843370"
+        ]
+      },
+      {
+        "statement": "找准品牌定位并实施差异化战略正向影响企业投资效益与竞争力",
+        "direction": "positive",
+        "evidence_refs": [
+          "2b54a9a4e8b40cb0"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "西南边疆地区农业企业品牌化建设程度较低，但优质种质资源及地形与气候等优势条件为打造农业企业知名品牌奠定基础",
+        "evidence_refs": [
+          "20cf6f9fcf9734d0",
+          "62ac95d8275421f9-chunk-001"
+        ]
+      },
+      {
+        "finding": "农业市场常常出现跟风现象，导致市场农产品同质化十分严重，丰产却难销",
+        "evidence_refs": [
+          "dc883ce81c843370"
+        ]
+      },
+      {
+        "finding": "政府不仅要制定相关政策支持农业企业品牌建设，还要加大对农业企业的投入力度以支持技术创新",
+        "evidence_refs": [
+          "7026ebe7c337168b"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "有效的品牌建设及管理能使拥有知名品牌的农业企业获得品牌效应带来的溢价，消费者会觉得物有所值",
+        "evidence_refs": [
+          "12ab1b8ed6b4826a"
+        ]
+      },
+      {
+        "implication": "针对不同消费群体制定与其相对应的产品设计及销售方案，可最大程度保障企业投资效益最大化",
+        "evidence_refs": [
+          "2b54a9a4e8b40cb0"
+        ]
+      },
+      {
+        "implication": "企业应利用政府扶持政策与资金投入，配合企业需求制定完整的品牌发展战略",
+        "evidence_refs": [
+          "7026ebe7c337168b",
+          "6f295c33839a485a"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "结论基于西南边疆地区及云南省研究，可能不完全适用于其他区域",
+      "学术理论分析，需结合市场实际验证",
+      "资料主要反映特定时期政策与状况，时效性需注意"
+    ],
+    "recommended_queries": [
+      "西南边疆农业企业品牌建设影响因素有哪些",
+      "农业企业如何解决产品同质化问题",
+      "政府如何支持农业企业品牌建设",
+      "农业企业品牌建设怎么做",
+      "包装和礼盒会加分还是减分"
+    ],
+    "doc_id": "62ac95d8275421f9",
+    "title": "西南边疆地区农业企业品牌建设影响因素与对策",
+    "source_path": "07_学术与研究资料/02_品牌与区域公用品牌/西南边疆地区农业企业品牌建设影响因素与对策.pdf",
+    "theme_path": "07_学术与研究资料/02_品牌与区域公用品牌"
+  },
+  {
+    "research_type": "paper",
+    "evidence_strength": "medium",
+    "card_summary": "云南生鲜农产品资源丰富但存在品牌弱、流通效率低、冷链基础差等问题。研究建议通过原产地直产直销、冷链物流体系建设、优质品牌打造、创新科技运用及拓展跨境电商服务五方面优化流通模式。简化流通环节与构建冷链网络是推动生鲜电商发展的关键。",
+    "core_variables": [
+      "流通效率",
+      "冷链物流",
+      "电商模式",
+      "品牌建设",
+      "跨境服务"
+    ],
+    "variable_relations": [
+      {
+        "statement": "流通主体和物流特征对流通效率有显著正向影响",
+        "direction": "positive",
+        "evidence_refs": [
+          "0de217327cf60692"
+        ]
+      },
+      {
+        "statement": "流通风险对流通效率有显著负向影响",
+        "direction": "negative",
+        "evidence_refs": [
+          "0de217327cf60692"
+        ]
+      },
+      {
+        "statement": "电子商务模式让物流成本减少",
+        "direction": "negative",
+        "evidence_refs": [
+          "418e0272a427b626"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "云南农产品整体发展落后，存在品牌弱、流通效率偏低、物流冷链基础建设较差等问题",
+        "evidence_refs": [
+          "6b0c3c3d447a38c5-chunk-001"
+        ]
+      },
+      {
+        "finding": "简化生鲜农产品的流通环节，提高流通效率，构建强大的冷链网络是推动生鲜电商发展的重中之重",
+        "evidence_refs": [
+          "e701e54f1b1f1c40"
+        ]
+      },
+      {
+        "finding": "跨境电商服务优化需推动数字化转型及建设全流程可追溯系统",
+        "evidence_refs": [
+          "d6dfe8437fb1c673"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "商家应注重原产地直产直销以提高流通效率",
+        "evidence_refs": [
+          "057a764069d624b7"
+        ]
+      },
+      {
+        "implication": "建议加大跨境部署力度，利用云南面向东南亚的桥头堡优势",
+        "evidence_refs": [
+          "120e3be930da094f"
+        ]
+      },
+      {
+        "implication": "需完善电商政策法规，加强平台建设，努力打造生鲜农产品品牌",
+        "evidence_refs": [
+          "58ba4a7c4bfcaf70"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "结论基于云南特殊地理位置和环境特点，其他地区需谨慎参考",
+      "部分建议基于特定政策背景，如一带一路及高原特色农业发展决定"
+    ],
+    "recommended_queries": [
+      "云南生鲜农产品电商模式优化",
+      "生鲜农产品流通效率影响因素",
+      "跨境电商生鲜物流布局建议"
+    ],
+    "doc_id": "6b0c3c3d447a38c5",
+    "title": "云南生鲜农产品电商模式与发展对策",
+    "source_path": "07_学术与研究资料/03_渠道与社区团购/云南生鲜农产品电商模式与发展对策.pdf",
+    "theme_path": "07_学术与研究资料/03_渠道与社区团购"
+  },
+  {
+    "research_type": "paper",
+    "evidence_strength": "medium",
+    "card_summary": "本研究运用层次分析法，从产品特色、网店内容、社会口碑和品牌宣传四个维度分析网购茶叶消费者购前选择。研究发现茶叶品质、线上网络宣传及网友评价是主要影响指标。研究还对云南普洱茶进行了评价，综合得分为三点二八七八，综合影响率为百分之六十五点七六，据此提出网络营销建议。",
+    "core_variables": [
+      "茶叶品质",
+      "线上网络宣传",
+      "网友评价",
+      "产品特色",
+      "网店内容",
+      "社会口碑",
+      "品牌宣传"
+    ],
+    "variable_relations": [
+      {
+        "statement": "茶叶品质、线上网络宣传及网友评价正向影响消费者购前选择",
+        "direction": "positive",
+        "evidence_refs": [
+          "719c8b5e4e952ea7",
+          "dbe87e71b27e5528-chunk-001"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "影响网购茶叶消费者购前选择的主要指标分别是茶叶品质、线上网络宣传及网友评价",
+        "evidence_refs": [
+          "719c8b5e4e952ea7",
+          "dbe87e71b27e5528-chunk-001"
+        ]
+      },
+      {
+        "finding": "云南普洱茶的各项指标综合得分为三点二八七八，综合影响率为百分之六十五点七六",
+        "evidence_refs": [
+          "719c8b5e4e952ea7",
+          "dbe87e71b27e5528-chunk-001"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "商家应重点提升茶叶品质，加强线上网络宣传，并重视网友评价管理以优化网络营销",
+        "evidence_refs": [
+          "719c8b5e4e952ea7",
+          "dbe87e71b27e5528-chunk-001"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "云南普洱茶的得分仅针对该品类，不可直接泛化为所有茶叶的通用标准",
+      "研究基于特定模型，实际市场情况可能波动"
+    ],
+    "recommended_queries": [
+      "网购茶叶消费者关注什么",
+      "线上茶叶营销重点有哪些",
+      "茶叶网购决策影响因素"
+    ],
+    "doc_id": "dbe87e71b27e5528",
+    "title": "基于层次分析法的网购茶叶消费者购前选择研究",
+    "source_path": "07_学术与研究资料/03_渠道与社区团购/茶叶网购影响因素层次分析与营销建议.html",
+    "theme_path": "07_学术与研究资料/03_渠道与社区团购"
+  },
+  {
+    "research_type": "paper",
+    "evidence_strength": "medium",
+    "card_summary": "本研究基于 2023 年消费者调查数据，运用二元 Logistic 模型分析社会资本对社区团购生鲜购买意愿及行为的影响。研究发现社会资本显著正向影响消费者意愿和行为，其中熟人使用、他人推荐及信任发起人是核心变量。女性及高学历者更愿加入团购群，年长者更愿采用团购购买农产品。建议商家重视发起人信誉及参照群体影响。",
+    "core_variables": [
+      "社会资本",
+      "购买意愿",
+      "购买行为",
+      "信任团购发起人",
+      "熟人是否使用",
+      "是否有人推荐",
+      "性别",
+      "年龄"
+    ],
+    "variable_relations": [
+      {
+        "statement": "社会资本的存在可以增加消费者社区团购生鲜农产品的意愿，促进团购行为的发生",
+        "direction": "positive",
+        "evidence_refs": [
+          "86b5a5d20ecf7cd9-chunk-001",
+          "265dc870d4e26786"
+        ]
+      },
+      {
+        "statement": "信任团购发起人对消费者社区团购意愿和行为有显著正向影响",
+        "direction": "positive",
+        "evidence_refs": [
+          "86b5a5d20ecf7cd9-chunk-001",
+          "86b5a5d20ecf7cd9-chunk-010"
+        ]
+      },
+      {
+        "statement": "熟人是否使用团购对消费者社区团购意愿有显著正向影响",
+        "direction": "positive",
+        "evidence_refs": [
+          "86b5a5d20ecf7cd9-chunk-001",
+          "86b5a5d20ecf7cd9-chunk-010"
+        ]
+      },
+      {
+        "statement": "是否有人推荐过社区团购对消费者社区团购意愿有显著正向影响",
+        "direction": "positive",
+        "evidence_refs": [
+          "86b5a5d20ecf7cd9-chunk-001",
+          "86b5a5d20ecf7cd9-chunk-010"
+        ]
+      },
+      {
+        "statement": "相比较男性而言，女性更愿意加入社区团购微信群",
+        "direction": "positive",
+        "evidence_refs": [
+          "e4c149a080095f89",
+          "86b5a5d20ecf7cd9-chunk-009"
+        ]
+      },
+      {
+        "statement": "年龄越大越愿意采用社区团购形式购买农产品",
+        "direction": "positive",
+        "evidence_refs": [
+          "629490127049265f",
+          "86b5a5d20ecf7cd9-chunk-009"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "社会资本核心变量熟人是否使用团购、是否有人推荐过社区团购、是否信任团购发起人对消费者社区团购意愿和行为有显著正向影响",
+        "evidence_refs": [
+          "86b5a5d20ecf7cd9-chunk-001",
+          "167838accd57b3ab"
+        ]
+      },
+      {
+        "finding": "女性更愿意加入社区团购微信群，可能因为女性购买农产品较多",
+        "evidence_refs": [
+          "e4c149a080095f89",
+          "86b5a5d20ecf7cd9-chunk-009"
+        ]
+      },
+      {
+        "finding": "年龄越大的人往往是农产品的主要购买人，越愿意采用社区团购形式购买农产品",
+        "evidence_refs": [
+          "629490127049265f",
+          "86b5a5d20ecf7cd9-chunk-009"
+        ]
+      },
+      {
+        "finding": "受教育程度越高的人，更愿意加入社区团购微信群",
+        "evidence_refs": [
+          "86b5a5d20ecf7cd9-chunk-009",
+          "86b5a5d20ecf7cd9-chunk-010"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "选择合适的社区团购发起人，提升社区生鲜团购的效益和用户体验",
+        "evidence_refs": [
+          "91adc9a7ad280e10",
+          "86b5a5d20ecf7cd9-chunk-001"
+        ]
+      },
+      {
+        "implication": "提升团购发起人和平台的信誉和服务质量",
+        "evidence_refs": [
+          "367d026695cc8b97",
+          "86b5a5d20ecf7cd9-chunk-001"
+        ]
+      },
+      {
+        "implication": "重视参照群体对社区消费者的影响，利用熟人关系促进转化",
+        "evidence_refs": [
+          "367d026695cc8b97",
+          "4dbac099e812298c"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "结论基于 2023 年特定区域消费者调查数据，不宜过度泛化至所有电商场景",
+      "研究主要针对生鲜农产品社区团购，其他品类可能表现不同",
+      "证据强度为中等，属于学术研究结论，实际经营需结合本地情况"
+    ],
+    "recommended_queries": [
+      "社会资本如何影响社区团购生鲜购买意愿",
+      "社区团购发起人信任对转化的影响",
+      "哪些人群更适合社区团购生鲜购买",
+      "信任机制如何影响社区团购转化",
+      "社区团购是否适合该商品"
+    ],
+    "doc_id": "86b5a5d20ecf7cd9",
+    "title": "社会资本对社区团购生鲜购买意愿及行为影响",
+    "source_path": "07_学术与研究资料/03_渠道与社区团购/社会资本对社区团购生鲜购买意愿及行为影响.pdf",
+    "theme_path": "07_学术与研究资料/03_渠道与社区团购"
+  },
+  {
+    "research_type": "paper",
+    "evidence_strength": "limited",
+    "card_summary": "本研究基于福建市场问卷数据，分析有机茶消费者认知与购买意愿。发现年龄显著影响认知与意愿，30 至 40 岁群体高于 20 岁以下。性别无显著差异。信任度是关键因素。购买渠道首选亲友介绍，其次电商。包装注重便携密封及生产信息。溢价接受度为每 500 克 100 元以内。",
+    "core_variables": [
+      "年龄",
+      "性别",
+      "信任程度",
+      "购买意愿",
+      "包装偏好",
+      "购买渠道",
+      "价格溢价"
+    ],
+    "variable_relations": [
+      {
+        "statement": "年龄对购买意愿有显著影响，30 至 40 岁群体高于 20 岁以下",
+        "direction": "positive",
+        "evidence_refs": [
+          "a5eb3c0f9a7c1ae4",
+          "08f38be542eff935-chunk-002"
+        ]
+      },
+      {
+        "statement": "信任度是影响消费者购买意愿的重要因素",
+        "direction": "positive",
+        "evidence_refs": [
+          "e809e76c94ce9ab1"
+        ]
+      },
+      {
+        "statement": "性别对有机茶认知、信任程度和购买意愿无显著差异",
+        "direction": "unclear",
+        "evidence_refs": [
+          "7dc6f694ad5b6ee1",
+          "08f38be542eff935-chunk-002"
+        ]
+      }
+    ],
+    "key_findings": [
+      {
+        "finding": "购买渠道依次为亲友介绍、网络电商、品牌店",
+        "evidence_refs": [
+          "8c71877a79aecbd5",
+          "08f38be542eff935-chunk-020"
+        ]
+      },
+      {
+        "finding": "包装注重便携性、密封性及生产环境说明",
+        "evidence_refs": [
+          "08f38be542eff935-chunk-020"
+        ]
+      },
+      {
+        "finding": "消费者愿意接受每 500 克 100 元以内的溢价",
+        "evidence_refs": [
+          "08f38be542eff935-chunk-020"
+        ]
+      }
+    ],
+    "business_implications": [
+      {
+        "implication": "营销重点面向 30 至 40 岁人群",
+        "evidence_refs": [
+          "a5eb3c0f9a7c1ae4"
+        ]
+      },
+      {
+        "implication": "建立电商渠道并结合口碑传播",
+        "evidence_refs": [
+          "08f38be542eff935-chunk-020"
+        ]
+      },
+      {
+        "implication": "包装设计强调便携密封及工艺说明",
+        "evidence_refs": [
+          "08f38be542eff935-chunk-020"
+        ]
+      },
+      {
+        "implication": "定价策略可设定溢价 100 元以内",
+        "evidence_refs": [
+          "08f38be542eff935-chunk-020"
+        ]
+      }
+    ],
+    "risk_warnings": [
+      "样本仅限福建市场，结论未必适用全国",
+      "问卷数据可能存在主观偏差",
+      "属于区域性实证研究，不可直接泛化为普遍规律"
+    ],
+    "recommended_queries": [
+      "有机茶消费者购买意愿影响因素",
+      "有机茶包装设计的消费者偏好",
+      "有机茶线上渠道营销策略",
+      "有机茶价格溢价接受度分析"
+    ],
+    "doc_id": "08f38be542eff935",
+    "title": "消费者对有机茶的认知及购买意愿分析——以福建市场为例 Analysis on Consumers’ Cognition and Purchase Intention of Organic Tea—Taking Fujian Market as an Example",
+    "source_path": "07_学术与研究资料/04_包装与消费心理/消费者对有机茶的认知及购买意愿分析.html",
+    "theme_path": "07_学术与研究资料/04_包装与消费心理"
+  }
+]
